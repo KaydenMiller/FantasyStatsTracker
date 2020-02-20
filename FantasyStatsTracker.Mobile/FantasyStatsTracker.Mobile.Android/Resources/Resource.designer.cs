@@ -26,7 +26,1993 @@ namespace FantasyStatsTracker.Mobile.Android
 		
 		public static void UpdateIdValues()
 		{
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_in = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_fade_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_fade_out = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_fade_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_grow_fade_in_from_bottom = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_enter = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_popup_enter;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_popup_exit = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_popup_exit;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_shrink_fade_out_from_bottom = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_bottom = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_slide_in_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_in_top = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_slide_in_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_bottom = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_slide_out_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.abc_slide_out_top = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.abc_slide_out_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_in = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.design_bottom_sheet_slide_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_bottom_sheet_slide_out = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.design_bottom_sheet_slide_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_in = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.design_snackbar_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.design_snackbar_out = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.design_snackbar_out;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.EnterFromLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.EnterFromRight = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.EnterFromRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.ExitToLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.ExitToRight = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.ExitToRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.tooltip_enter = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.tooltip_enter;
+			global::Xamarin.Forms.Platform.Android.Resource.Animation.tooltip_exit = global::FantasyStatsTracker.Mobile.Android.Resource.Animation.tooltip_exit;
+			global::Xamarin.Forms.Platform.Android.Resource.Animator.design_appbar_state_list_animator = global::FantasyStatsTracker.Mobile.Android.Resource.Animator.design_appbar_state_list_animator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarDivider = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarItemBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarPopupTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarPopupTheme;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSplitStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTabTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarWidgetTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionDropDownStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionMenuTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCloseDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCopyDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeCutDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeFindDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePasteDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModePopupWindowStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSelectAllDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeShareDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeSplitBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionModeWebSearchDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionOverflowMenuStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionProviderClass = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionProviderClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionViewClass = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.actionViewClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.activityChooserViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogButtonGroupStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogCenterButtons = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.alertDialogStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alertDialogTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.alertDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.allowStacking = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.allowStacking;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.alphabeticModifiers = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowHeadLength = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.arrowHeadLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.arrowShaftLength = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.arrowShaftLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoCompleteTextViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMaxTextSize = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeMinTextSize = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizePresetSizes = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeStepGranularity = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.autoSizeTextType = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.autoSizeTextType;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.background = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.background;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundSplit = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundStacked = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.backgroundStacked;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.backgroundTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.barLength = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.barLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_autoHide = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.behavior_autoHide;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_hideable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.behavior_hideable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_overlapTop = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_peekHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.behavior_skipCollapsed = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.borderWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.borderlessButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetDialogTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.bottomSheetStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNegativeButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarNeutralButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarPositiveButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonPanelSideLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonStyleSmall = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.buttonTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.buttonTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardBackgroundColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardCornerRadius = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.cardCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardElevation = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.cardElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardMaxElevation = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.cardMaxElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardPreventCornerOverlap = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.cardUseCompatPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkboxStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.checkboxStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.checkedTextViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.closeItemLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.closeItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseContentDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.collapseContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapseIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.collapseIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.collapsedTitleTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.color = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.color;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorAccent = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorBackgroundFloating = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorButtonNormal = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorButtonNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlActivated = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorControlActivated;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlHighlight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorControlHighlight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorControlNormal = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorControlNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorError = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimary = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorPrimaryDark = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.colorSwitchThumbNormal = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.commitIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.commitIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetEndWithActions = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetRight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStart = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentInsetStartWithNavigation = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingBottom = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingRight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentPaddingTop = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.contentScrim = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.contentScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.controlBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.controlBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.counterEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterMaxLength = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.counterMaxLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterOverflowTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.counterTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.counterTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.customNavigationLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.customNavigationLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.defaultQueryHint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.defaultQueryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogPreferredPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dialogTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.dialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.displayOptions = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.displayOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.divider = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerHorizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.dividerHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.dividerPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dividerVertical = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.dividerVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawableSize = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.drawableSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.drawerArrowStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.drawerArrowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropDownListViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.dropdownListPreferredItemHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.editTextBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.editTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.editTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.errorEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.errorTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.errorTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandActivityOverflowButtonDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expanded = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMargin = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginBottom = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginStart = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleMarginTop = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.expandedTitleTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fabSize = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fabSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalThumbDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fastScrollVerticalTrackDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.font = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.font;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontFamily = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderAuthority = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderCerts = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fontProviderCerts;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchStrategy = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderFetchTimeout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderPackage = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fontProviderPackage;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontProviderQuery = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fontProviderQuery;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.fontWeight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.foregroundInsidePadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.gapBetweenBars = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.gapBetweenBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.goIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.goIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.headerLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.headerLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.height = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.height;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hideOnContentScroll = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintAnimationEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.hintEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.hintTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.hintTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeAsUpIndicator = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.homeLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.homeLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.icon = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.iconifiedByDefault = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.imageButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.imageButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.indeterminateProgressStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.initialActivityCount = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.initialActivityCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.insetForeground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.insetForeground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.isLightTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.isLightTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemIconTint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.itemPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.itemTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.keylines = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.keylines;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layoutManager = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layoutManager;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_anchorGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_behavior = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_collapseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_collapseParallaxMultiplier = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_dodgeInsetEdges = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_insetEdge = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_insetEdge;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_keyline = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_keyline;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollFlags = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.layout_scrollInterpolator = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listChoiceBackgroundIndicator = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listDividerAlertDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listItemLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listMenuViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPopupWindowStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightLarge = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemHeightSmall = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.listPreferredItemPaddingRight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logo = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.logoDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.logoDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxActionInlineWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.maxButtonHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.maxButtonHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.measureWithLargestChild = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.menu = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.multiChoiceItemLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationContentDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.navigationContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.navigationIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.navigationMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.navigationMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.numericModifiers = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.numericModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.overlapAnchor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.overlapAnchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingBottomNoButtons = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.paddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingStart = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.paddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.paddingTopNoTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.panelBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.panelMenuListWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleContentDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.passwordToggleTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.passwordToggleTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupMenuStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.popupMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.popupWindowStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.popupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.preserveIconSpacing = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.pressedTranslationZ = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.progressBarPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.progressBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.progressBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.queryBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.queryHint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.queryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.radioButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.radioButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.ratingBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleIndicator = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.ratingBarStyleSmall = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.reverseLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.reverseLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.rippleColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimAnimationDuration = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.scrimVisibleHeightTrigger = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchHintIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.searchHintIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.searchIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.searchViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.searchViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.seekBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.seekBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.selectableItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.selectableItemBackgroundBorderless = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showAsAction = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.showAsAction;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showDividers = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.showDividers;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showText = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.showText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.showTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.singleChoiceItemLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spanCount = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.spanCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinBars = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.spinBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerDropDownItemStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.spinnerStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.spinnerStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.splitTrack = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.splitTrack;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.srcCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.srcCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.stackFromEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.stackFromEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_above_anchor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.state_above_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsed = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.state_collapsible = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.state_collapsible;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.statusBarBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.statusBarScrim = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.statusBarScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subMenuArrow = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.subMenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.submitBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.submitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.subtitleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.subtitleTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.suggestionRowLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchMinWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.switchMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.switchPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.switchStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.switchTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.switchTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabContentStart = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabContentStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabIndicatorHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMaxWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabMaxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMinWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingBottom = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingStart = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabPaddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabPaddingTop = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabSelectedTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tabTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tabTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAllCaps = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceLargePopupMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItem = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSecondary = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceListItemSmall = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearancePopupMenuHeader = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultSubtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSearchResultTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textAppearanceSmallPopupMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorAlertDialogListItem = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorError = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textColorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.textColorSearchUrl = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.theme = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thickness = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTextPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.thumbTextPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.thumbTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.thumbTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.thumbTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMark = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tickMark;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tickMarkTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tickMarkTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.title = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.title;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargin = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginBottom = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginStart = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMarginTop = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleMargins = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.titleTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarId = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.toolbarId;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarNavigationButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.toolbarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.toolbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipForegroundColor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipFrameBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.tooltipText = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.tooltipText;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.track = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.track;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTint = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.trackTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.trackTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.trackTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.useCompatPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.voiceIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.voiceIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionBarOverlay = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowActionModeOverlay = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMajor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedHeightMinor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMajor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowFixedWidthMinor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMajor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowMinWidthMinor = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Attribute.windowNoTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Attribute.windowNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_action_bar_embed_tabs = global::FantasyStatsTracker.Mobile.Android.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_allow_stacked_button_bar = global::FantasyStatsTracker.Mobile.Android.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::FantasyStatsTracker.Mobile.Android.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::FantasyStatsTracker.Mobile.Android.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::Xamarin.Forms.Platform.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::FantasyStatsTracker.Mobile.Android.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_background_cache_hint_selector_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_borderless_text_material = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_btn_colored_text_material = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_btn_colored_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_color_highlight_material = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_color_highlight_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_hint_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_hint_foreground_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_hint_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_input_method_navigation_guard = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_input_method_navigation_guard;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_disable_only_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_primary_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_primary_text_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_primary_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_search_url_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_normal = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_search_url_text_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_pressed = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_search_url_text_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_search_url_text_selected = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_search_url_text_selected;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_secondary_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_secondary_text_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_secondary_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_btn_checkable = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_tint_btn_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_default = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_tint_default;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_edittext = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_tint_edittext;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_seek_thumb = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_tint_seek_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_spinner = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_tint_spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.abc_tint_switch_track = global::FantasyStatsTracker.Mobile.Android.Resource.Color.abc_tint_switch_track;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.accent_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.accent_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.accent_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.background_floating_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_floating_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.background_floating_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.background_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.background_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.background_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_disabled_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.bright_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_inverse_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.bright_foreground_inverse_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.bright_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.bright_foreground_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.bright_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.button_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.button_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.button_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_dark_background = global::FantasyStatsTracker.Mobile.Android.Resource.Color.cardview_dark_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_light_background = global::FantasyStatsTracker.Mobile.Android.Resource.Color.cardview_light_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_end_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.cardview_shadow_end_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.cardview_shadow_start_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.cardview_shadow_start_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_bottom_navigation_shadow_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_bottom_navigation_shadow_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_error = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_error;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_end_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_fab_shadow_end_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_mid_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_fab_shadow_mid_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_shadow_start_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_fab_shadow_start_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_inner_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_fab_stroke_end_inner_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_end_outer_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_fab_stroke_end_outer_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_inner_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_fab_stroke_top_inner_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_fab_stroke_top_outer_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_fab_stroke_top_outer_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_snackbar_background_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_snackbar_background_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.design_tint_password_toggle = global::FantasyStatsTracker.Mobile.Android.Resource.Color.design_tint_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_disabled_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.dim_foreground_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.dim_foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.dim_foreground_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.dim_foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.error_color_material = global::FantasyStatsTracker.Mobile.Android.Resource.Color.error_color_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.foreground_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.foreground_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.foreground_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.highlighted_text_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.highlighted_text_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.highlighted_text_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_800 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_blue_grey_800;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_900 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_blue_grey_900;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_blue_grey_950 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_blue_grey_950;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_200 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_deep_teal_200;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_deep_teal_500 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_deep_teal_500;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_100 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_grey_100;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_300 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_grey_300;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_50 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_grey_50;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_600 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_grey_600;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_800 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_grey_800;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_850 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_grey_850;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.material_grey_900 = global::FantasyStatsTracker.Mobile.Android.Resource.Color.material_grey_900;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_action_color_filter = global::FantasyStatsTracker.Mobile.Android.Resource.Color.notification_action_color_filter;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_icon_bg_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.notification_icon_bg_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.notification_material_background_media_default_color = global::FantasyStatsTracker.Mobile.Android.Resource.Color.notification_material_background_media_default_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.primary_dark_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_dark_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.primary_dark_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.primary_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.primary_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.primary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_default_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.primary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.primary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.primary_text_disabled_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.primary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.ripple_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.ripple_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.ripple_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.secondary_text_default_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_default_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.secondary_text_default_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.secondary_text_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.secondary_text_disabled_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.secondary_text_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_disabled_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.switch_thumb_disabled_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.switch_thumb_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.switch_thumb_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.switch_thumb_normal_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.switch_thumb_normal_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.switch_thumb_normal_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Color.tooltip_background_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Color.tooltip_background_light = global::FantasyStatsTracker.Mobile.Android.Resource.Color.tooltip_background_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_height_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_end_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_default_padding_start_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_elevation_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_progress_bar_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_max_height = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_height_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_button_min_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_button_min_width_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_action_button_min_width_overflow_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_alert_dialog_button_bar_height = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_horizontal_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_inset_vertical_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_horizontal_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_button_padding_vertical_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_config_prefDialogWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_corner_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_control_corner_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_inset_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_control_inset_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_control_padding_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_control_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_major = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_height_minor = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_major = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_fixed_width_minor = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_major = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_min_width_major;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_min_width_minor = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_padding_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_padding_top_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dialog_title_divider_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_disabled_alpha_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_icon_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_left = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_dropdownitem_text_padding_right = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_bottom_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_edit_text_inset_top_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_floating_window_z = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_floating_window_z;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_list_item_padding_horizontal_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_panel_menu_list_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_panel_menu_list_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_progress_bar_height_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_progress_bar_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_height = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_search_view_preferred_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_search_view_preferred_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_search_view_preferred_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_background_height_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_seekbar_track_progress_height_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_select_dialog_padding_start_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_switch_padding = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_switch_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_1_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_body_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_body_2_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_body_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_button_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_button_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_caption_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_caption_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_1_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_display_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_2_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_display_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_3_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_display_3_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_display_4_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_display_4_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_headline_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_headline_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_large_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_large_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_medium_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_medium_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_header_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_menu_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_menu_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_small_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_small_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subhead_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_subhead_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.abc_text_size_title_material_toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_compat_inset_shadow = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.cardview_default_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.cardview_default_radius = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.cardview_default_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_horizontal_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_inset_vertical_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_horizontal_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_button_padding_vertical_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.compat_control_corner_material = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.compat_control_corner_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_appbar_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_appbar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_navigation_active_item_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_active_text_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_navigation_active_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_height = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_navigation_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_max_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_navigation_item_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_item_min_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_navigation_item_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_margin = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_navigation_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_shadow_height = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_navigation_shadow_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_navigation_text_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_navigation_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_modal_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_sheet_modal_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_bottom_sheet_peek_height_min = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_bottom_sheet_peek_height_min;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_border_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_fab_border_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_fab_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_image_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_fab_image_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_mini = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_fab_size_mini;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_size_normal = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_fab_size_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_fab_translation_z_pressed = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_fab_translation_z_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_navigation_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_padding = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_navigation_icon_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_icon_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_navigation_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_max_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_navigation_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_padding_bottom = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_navigation_padding_bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_navigation_separator_vertical_padding = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_navigation_separator_vertical_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_action_inline_max_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_action_inline_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_background_corner_radius = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_background_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_extra_spacing_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_max_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_min_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_horizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_padding_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_padding_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_padding_vertical_2lines;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_snackbar_text_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_snackbar_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_max_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_tab_max_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_scrollable_min_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_tab_scrollable_min_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_tab_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.design_tab_text_size_2line = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.design_tab_text_size_2line;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.disabled_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.disabled_alpha_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.disabled_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_default_thickness = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.fastscroll_default_thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_margin = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.fastscroll_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.fastscroll_minimum_range = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.fastscroll_minimum_range;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_colored = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.highlight_alpha_material_colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.highlight_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.highlight_alpha_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.highlight_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.hint_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_alpha_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.hint_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.hint_pressed_alpha_material_light = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.item_touch_helper_max_drag_scroll_per_frame;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.item_touch_helper_swipe_escape_max_velocity;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.item_touch_helper_swipe_escape_velocity;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_icon_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_action_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_action_text_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_action_text_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_big_circle_margin = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_big_circle_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_content_margin_start = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_content_margin_start;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_height = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_large_icon_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_large_icon_width = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_large_icon_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_main_column_padding_top = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_main_column_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_media_narrow_margin = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_media_narrow_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_icon_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_right_icon_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_right_side_padding_top = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_right_side_padding_top;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_background_padding = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_small_icon_background_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_small_icon_size_as_large = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_subtext_size = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_subtext_size;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_top_pad;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.notification_top_pad_large_text = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.notification_top_pad_large_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_corner_radius = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.tooltip_corner_radius;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_horizontal_padding = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.tooltip_horizontal_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_margin = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.tooltip_margin;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_precise_anchor_threshold = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_vertical_padding = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.tooltip_vertical_padding;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_non_touch = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Xamarin.Forms.Platform.Android.Resource.Dimension.tooltip_y_offset_touch = global::FantasyStatsTracker.Mobile.Android.Resource.Dimension.tooltip_y_offset_touch;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_action_bar_item_background_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_borderless_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_borderless_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_check_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_colored_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_colored_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_default_mtrl_shape = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_radio_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_internal_bg = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_cab_background_top_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_control_background_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_control_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_dialog_material_background = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_dialog_material_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_edit_text_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_edit_text_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_ab_back_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_ab_back_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_clear_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_clear_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_go_search_api_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_overflow_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_search_api_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_16dp = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_36dp = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_black_48dp = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_16dp = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_36dp = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_star_half_black_48dp = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ic_voice_search_api_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_item_background_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_item_background_holo_light = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_item_background_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_divider_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_focused_holo = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_focused_holo;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_longpressed_holo = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_longpressed_holo;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_pressed_holo_light = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_disabled_holo_light = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_list_selector_holo_light = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_list_selector_holo_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_popup_background_mtrl_mult = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_indicator_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ratingbar_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_ratingbar_small_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_ratingbar_small_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_thumb_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_tick_mark_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_seekbar_track_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_seekbar_track_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_spinner_textfield_background_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_thumb_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_switch_thumb_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_switch_track_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_tab_indicator_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_cursor_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_text_cursor_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_textfield_search_material = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_textfield_search_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.abc_vector_test = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.abc_vector_test;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_hide_password = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.avd_hide_password;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.avd_show_password = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.avd_show_password;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_bottom_navigation_item_background = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.design_bottom_navigation_item_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_fab_background = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.design_fab_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.design_ic_visibility;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_ic_visibility_off = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.design_ic_visibility_off;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_password_eye = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.design_password_eye;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.design_snackbar_background = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.design_snackbar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.navigation_empty_icon = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.navigation_empty_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_action_background = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_action_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_bg_low;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_normal = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_bg_low_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_low_pressed = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_bg_low_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_bg_normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_bg_normal_pressed = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_bg_normal_pressed;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_icon_background = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_icon_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_bg = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_template_icon_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_template_icon_low_bg = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_template_icon_low_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notification_tile_bg = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notification_tile_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.notify_panel_notification_icon_bg = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_dark = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.tooltip_frame_dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Drawable.tooltip_frame_light = global::FantasyStatsTracker.Mobile.Android.Resource.Drawable.tooltip_frame_light;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ALT = global::FantasyStatsTracker.Mobile.Android.Resource.Id.ALT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.CTRL = global::FantasyStatsTracker.Mobile.Android.Resource.Id.CTRL;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.FUNCTION = global::FantasyStatsTracker.Mobile.Android.Resource.Id.FUNCTION;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.META = global::FantasyStatsTracker.Mobile.Android.Resource.Id.META;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SHIFT = global::FantasyStatsTracker.Mobile.Android.Resource.Id.SHIFT;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.SYM = global::FantasyStatsTracker.Mobile.Android.Resource.Id.SYM;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action0 = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action0;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_activity_content = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_bar_activity_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_container = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_bar_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_root = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_bar_root;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_spinner = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_bar_spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_bar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_bar_title = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_bar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_container = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_context_bar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_context_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_divider = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_image = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_image;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_divider = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_menu_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_menu_presenter = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_menu_presenter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_mode_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_bar_stub = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_mode_bar_stub;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_mode_close_button = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_mode_close_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.action_text = global::FantasyStatsTracker.Mobile.Android.Resource.Id.action_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.actions = global::FantasyStatsTracker.Mobile.Android.Resource.Id.actions;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.activity_chooser_view_content = global::FantasyStatsTracker.Mobile.Android.Resource.Id.activity_chooser_view_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.add = global::FantasyStatsTracker.Mobile.Android.Resource.Id.add;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.alertTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Id.alertTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.all = global::FantasyStatsTracker.Mobile.Android.Resource.Id.all;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.always = global::FantasyStatsTracker.Mobile.Android.Resource.Id.always;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.async = global::FantasyStatsTracker.Mobile.Android.Resource.Id.async;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.auto = global::FantasyStatsTracker.Mobile.Android.Resource.Id.auto;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.beginning = global::FantasyStatsTracker.Mobile.Android.Resource.Id.beginning;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.blocking = global::FantasyStatsTracker.Mobile.Android.Resource.Id.blocking;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottom = global::FantasyStatsTracker.Mobile.Android.Resource.Id.bottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_navarea = global::FantasyStatsTracker.Mobile.Android.Resource.Id.bottomtab_navarea;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.bottomtab_tabbar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.bottomtab_tabbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.buttonPanel = global::FantasyStatsTracker.Mobile.Android.Resource.Id.buttonPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.cancel_action = global::FantasyStatsTracker.Mobile.Android.Resource.Id.cancel_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center = global::FantasyStatsTracker.Mobile.Android.Resource.Id.center;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center_horizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Id.center_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.center_vertical = global::FantasyStatsTracker.Mobile.Android.Resource.Id.center_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.checkbox = global::FantasyStatsTracker.Mobile.Android.Resource.Id.checkbox;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.chronometer = global::FantasyStatsTracker.Mobile.Android.Resource.Id.chronometer;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_horizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Id.clip_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.clip_vertical = global::FantasyStatsTracker.Mobile.Android.Resource.Id.clip_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.collapseActionView = global::FantasyStatsTracker.Mobile.Android.Resource.Id.collapseActionView;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.container = global::FantasyStatsTracker.Mobile.Android.Resource.Id.container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.contentPanel = global::FantasyStatsTracker.Mobile.Android.Resource.Id.contentPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.coordinator = global::FantasyStatsTracker.Mobile.Android.Resource.Id.coordinator;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.custom = global::FantasyStatsTracker.Mobile.Android.Resource.Id.custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.customPanel = global::FantasyStatsTracker.Mobile.Android.Resource.Id.customPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.decor_content_parent = global::FantasyStatsTracker.Mobile.Android.Resource.Id.decor_content_parent;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.default_activity_button = global::FantasyStatsTracker.Mobile.Android.Resource.Id.default_activity_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_bottom_sheet = global::FantasyStatsTracker.Mobile.Android.Resource.Id.design_bottom_sheet;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area = global::FantasyStatsTracker.Mobile.Android.Resource.Id.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_action_area_stub = global::FantasyStatsTracker.Mobile.Android.Resource.Id.design_menu_item_action_area_stub;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_menu_item_text = global::FantasyStatsTracker.Mobile.Android.Resource.Id.design_menu_item_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.design_navigation_view = global::FantasyStatsTracker.Mobile.Android.Resource.Id.design_navigation_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.disableHome = global::FantasyStatsTracker.Mobile.Android.Resource.Id.disableHome;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.edit_query = global::FantasyStatsTracker.Mobile.Android.Resource.Id.edit_query;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.end = global::FantasyStatsTracker.Mobile.Android.Resource.Id.end;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.end_padder = global::FantasyStatsTracker.Mobile.Android.Resource.Id.end_padder;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlways = global::FantasyStatsTracker.Mobile.Android.Resource.Id.enterAlways;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.enterAlwaysCollapsed = global::FantasyStatsTracker.Mobile.Android.Resource.Id.enterAlwaysCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.exitUntilCollapsed = global::FantasyStatsTracker.Mobile.Android.Resource.Id.exitUntilCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.expand_activities_button = global::FantasyStatsTracker.Mobile.Android.Resource.Id.expand_activities_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.expanded_menu = global::FantasyStatsTracker.Mobile.Android.Resource.Id.expanded_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill = global::FantasyStatsTracker.Mobile.Android.Resource.Id.fill;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_horizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Id.fill_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.fill_vertical = global::FantasyStatsTracker.Mobile.Android.Resource.Id.fill_vertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.@fixed = global::FantasyStatsTracker.Mobile.Android.Resource.Id.@fixed;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_appbar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.flyoutcontent_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.flyoutcontent_recycler = global::FantasyStatsTracker.Mobile.Android.Resource.Id.flyoutcontent_recycler;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.forever = global::FantasyStatsTracker.Mobile.Android.Resource.Id.forever;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ghost_view = global::FantasyStatsTracker.Mobile.Android.Resource.Id.ghost_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.home = global::FantasyStatsTracker.Mobile.Android.Resource.Id.home;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.homeAsUp = global::FantasyStatsTracker.Mobile.Android.Resource.Id.homeAsUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.icon = global::FantasyStatsTracker.Mobile.Android.Resource.Id.icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.icon_group = global::FantasyStatsTracker.Mobile.Android.Resource.Id.icon_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.ifRoom = global::FantasyStatsTracker.Mobile.Android.Resource.Id.ifRoom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.image = global::FantasyStatsTracker.Mobile.Android.Resource.Id.image;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.info = global::FantasyStatsTracker.Mobile.Android.Resource.Id.info;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.italic = global::FantasyStatsTracker.Mobile.Android.Resource.Id.italic;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.item_touch_helper_previous_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Id.item_touch_helper_previous_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.largeLabel = global::FantasyStatsTracker.Mobile.Android.Resource.Id.largeLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.left = global::FantasyStatsTracker.Mobile.Android.Resource.Id.left;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.line1 = global::FantasyStatsTracker.Mobile.Android.Resource.Id.line1;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.line3 = global::FantasyStatsTracker.Mobile.Android.Resource.Id.line3;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.listMode = global::FantasyStatsTracker.Mobile.Android.Resource.Id.listMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.list_item = global::FantasyStatsTracker.Mobile.Android.Resource.Id.list_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_appbar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.main_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_tablayout = global::FantasyStatsTracker.Mobile.Android.Resource.Id.main_tablayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.main_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.main_viewpager = global::FantasyStatsTracker.Mobile.Android.Resource.Id.main_viewpager;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.masked = global::FantasyStatsTracker.Mobile.Android.Resource.Id.masked;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.media_actions = global::FantasyStatsTracker.Mobile.Android.Resource.Id.media_actions;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.message = global::FantasyStatsTracker.Mobile.Android.Resource.Id.message;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.middle = global::FantasyStatsTracker.Mobile.Android.Resource.Id.middle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.mini = global::FantasyStatsTracker.Mobile.Android.Resource.Id.mini;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.multiply = global::FantasyStatsTracker.Mobile.Android.Resource.Id.multiply;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.navigation_header_container = global::FantasyStatsTracker.Mobile.Android.Resource.Id.navigation_header_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.never = global::FantasyStatsTracker.Mobile.Android.Resource.Id.never;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.none = global::FantasyStatsTracker.Mobile.Android.Resource.Id.none;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.normal = global::FantasyStatsTracker.Mobile.Android.Resource.Id.normal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_background = global::FantasyStatsTracker.Mobile.Android.Resource.Id.notification_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column = global::FantasyStatsTracker.Mobile.Android.Resource.Id.notification_main_column;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.notification_main_column_container = global::FantasyStatsTracker.Mobile.Android.Resource.Id.notification_main_column_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parallax = global::FantasyStatsTracker.Mobile.Android.Resource.Id.parallax;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parentPanel = global::FantasyStatsTracker.Mobile.Android.Resource.Id.parentPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.parent_matrix = global::FantasyStatsTracker.Mobile.Android.Resource.Id.parent_matrix;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.pin = global::FantasyStatsTracker.Mobile.Android.Resource.Id.pin;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_circular = global::FantasyStatsTracker.Mobile.Android.Resource.Id.progress_circular;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.progress_horizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Id.progress_horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.radio = global::FantasyStatsTracker.Mobile.Android.Resource.Id.radio;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right = global::FantasyStatsTracker.Mobile.Android.Resource.Id.right;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right_icon = global::FantasyStatsTracker.Mobile.Android.Resource.Id.right_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.right_side = global::FantasyStatsTracker.Mobile.Android.Resource.Id.right_side;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_image_matrix = global::FantasyStatsTracker.Mobile.Android.Resource.Id.save_image_matrix;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_non_transition_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Id.save_non_transition_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.save_scale_type = global::FantasyStatsTracker.Mobile.Android.Resource.Id.save_scale_type;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.screen = global::FantasyStatsTracker.Mobile.Android.Resource.Id.screen;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scroll = global::FantasyStatsTracker.Mobile.Android.Resource.Id.scroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorDown = global::FantasyStatsTracker.Mobile.Android.Resource.Id.scrollIndicatorDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollIndicatorUp = global::FantasyStatsTracker.Mobile.Android.Resource.Id.scrollIndicatorUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollView = global::FantasyStatsTracker.Mobile.Android.Resource.Id.scrollView;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.scrollable = global::FantasyStatsTracker.Mobile.Android.Resource.Id.scrollable;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_badge = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_badge;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_bar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_button = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_close_btn = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_close_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_edit_frame = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_edit_frame;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_go_btn = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_go_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_mag_icon = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_mag_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_plate = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_plate;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_src_text = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_src_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.search_voice_btn = global::FantasyStatsTracker.Mobile.Android.Resource.Id.search_voice_btn;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.select_dialog_listview = global::FantasyStatsTracker.Mobile.Android.Resource.Id.select_dialog_listview;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_appbar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.shellcontent_appbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shellcontent_toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.shellcontent_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.shortcut = global::FantasyStatsTracker.Mobile.Android.Resource.Id.shortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showCustom = global::FantasyStatsTracker.Mobile.Android.Resource.Id.showCustom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showHome = global::FantasyStatsTracker.Mobile.Android.Resource.Id.showHome;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.showTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Id.showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.smallLabel = global::FantasyStatsTracker.Mobile.Android.Resource.Id.smallLabel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_action = global::FantasyStatsTracker.Mobile.Android.Resource.Id.snackbar_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snackbar_text = global::FantasyStatsTracker.Mobile.Android.Resource.Id.snackbar_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.snap = global::FantasyStatsTracker.Mobile.Android.Resource.Id.snap;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.spacer = global::FantasyStatsTracker.Mobile.Android.Resource.Id.spacer;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.split_action_bar = global::FantasyStatsTracker.Mobile.Android.Resource.Id.split_action_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_atop = global::FantasyStatsTracker.Mobile.Android.Resource.Id.src_atop;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_in = global::FantasyStatsTracker.Mobile.Android.Resource.Id.src_in;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.src_over = global::FantasyStatsTracker.Mobile.Android.Resource.Id.src_over;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.start = global::FantasyStatsTracker.Mobile.Android.Resource.Id.start;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.status_bar_latest_event_content = global::FantasyStatsTracker.Mobile.Android.Resource.Id.status_bar_latest_event_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.submenuarrow = global::FantasyStatsTracker.Mobile.Android.Resource.Id.submenuarrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.submit_area = global::FantasyStatsTracker.Mobile.Android.Resource.Id.submit_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tabMode = global::FantasyStatsTracker.Mobile.Android.Resource.Id.tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.tag_transition_group = global::FantasyStatsTracker.Mobile.Android.Resource.Id.tag_transition_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text = global::FantasyStatsTracker.Mobile.Android.Resource.Id.text;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text2 = global::FantasyStatsTracker.Mobile.Android.Resource.Id.text2;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoButtons = global::FantasyStatsTracker.Mobile.Android.Resource.Id.textSpacerNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textSpacerNoTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Id.textSpacerNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.text_input_password_toggle = global::FantasyStatsTracker.Mobile.Android.Resource.Id.text_input_password_toggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_counter = global::FantasyStatsTracker.Mobile.Android.Resource.Id.textinput_counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.textinput_error = global::FantasyStatsTracker.Mobile.Android.Resource.Id.textinput_error;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.time = global::FantasyStatsTracker.Mobile.Android.Resource.Id.time;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.title = global::FantasyStatsTracker.Mobile.Android.Resource.Id.title;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.titleDividerNoCustom = global::FantasyStatsTracker.Mobile.Android.Resource.Id.titleDividerNoCustom;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.title_template = global::FantasyStatsTracker.Mobile.Android.Resource.Id.title_template;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.top = global::FantasyStatsTracker.Mobile.Android.Resource.Id.top;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.topPanel = global::FantasyStatsTracker.Mobile.Android.Resource.Id.topPanel;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.touch_outside = global::FantasyStatsTracker.Mobile.Android.Resource.Id.touch_outside;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_current_scene = global::FantasyStatsTracker.Mobile.Android.Resource.Id.transition_current_scene;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_layout_save = global::FantasyStatsTracker.Mobile.Android.Resource.Id.transition_layout_save;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_position = global::FantasyStatsTracker.Mobile.Android.Resource.Id.transition_position;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_scene_layoutid_cache = global::FantasyStatsTracker.Mobile.Android.Resource.Id.transition_scene_layoutid_cache;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.transition_transform = global::FantasyStatsTracker.Mobile.Android.Resource.Id.transition_transform;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.uniform = global::FantasyStatsTracker.Mobile.Android.Resource.Id.uniform;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.up = global::FantasyStatsTracker.Mobile.Android.Resource.Id.up;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.useLogo = global::FantasyStatsTracker.Mobile.Android.Resource.Id.useLogo;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.view_offset_helper = global::FantasyStatsTracker.Mobile.Android.Resource.Id.view_offset_helper;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.visible = global::FantasyStatsTracker.Mobile.Android.Resource.Id.visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.withText = global::FantasyStatsTracker.Mobile.Android.Resource.Id.withText;
+			global::Xamarin.Forms.Platform.Android.Resource.Id.wrap_content = global::FantasyStatsTracker.Mobile.Android.Resource.Id.wrap_content;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityDefaultDur = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.abc_config_activityDefaultDur;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.abc_config_activityShortDur = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.abc_config_activityShortDur;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.app_bar_elevation_anim_duration = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.app_bar_elevation_anim_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.bottom_sheet_slide_duration = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.bottom_sheet_slide_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.cancel_button_image_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.cancel_button_image_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.config_tooltipAnimTime = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.config_tooltipAnimTime;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.design_snackbar_text_max_lines = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.design_snackbar_text_max_lines;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.hide_password_duration = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.hide_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.show_password_duration = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.show_password_duration;
+			global::Xamarin.Forms.Platform.Android.Resource.Integer.status_bar_notification_info_maxnum = global::FantasyStatsTracker.Mobile.Android.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_title_item = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_action_bar_title_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_bar_up_container = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_action_bar_up_container;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_item_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_action_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_menu_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_action_menu_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_bar = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_action_mode_bar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_action_mode_close_item_material = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_action_mode_close_item_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_activity_chooser_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_activity_chooser_view_list_item = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_button_bar_material = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_material = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_alert_dialog_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_alert_dialog_title_material = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_alert_dialog_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_dialog_title_material = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_dialog_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_expanded_menu_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_expanded_menu_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_checkbox = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_icon = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_list_menu_item_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_list_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_list_menu_item_radio = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_list_menu_item_radio;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_header_item_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_popup_menu_item_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_popup_menu_item_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_content_include = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_screen_content_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_screen_simple;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_simple_overlay_action_mode = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_screen_toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_screen_toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_dropdown_item_icons_2line = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_search_view = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_search_view;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.abc_select_dialog_material = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.abc_select_dialog_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.BottomTabLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.BottomTabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_navigation_item = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_bottom_navigation_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_bottom_sheet_dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_bottom_sheet_dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_layout_snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_snackbar_include = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_layout_snackbar_include;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_icon = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_layout_tab_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_layout_tab_text = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_layout_tab_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_menu_item_action_area = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_menu_item_action_area;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_navigation_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_header = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_navigation_item_header;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_separator = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_navigation_item_separator;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_item_subheader = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_navigation_item_subheader;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_navigation_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_navigation_menu_item = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_navigation_menu_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.design_text_input_password_icon = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.design_text_input_password_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.FlyoutContent = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.FlyoutContent;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_action_tombstone = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_action_tombstone;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_action = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_media_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_media_cancel_action = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_media_cancel_action;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_big_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_custom = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_big_media_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_big_media_narrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_big_media_narrow_custom = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_custom_big = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_custom_big;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_icon_group = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_icon_group;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_lines_media = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_lines_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_media;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_media_custom = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_media_custom;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_chronometer = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_part_chronometer;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.notification_template_part_time = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.notification_template_part_time;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.RootLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.RootLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_item_material = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.select_dialog_item_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_multichoice_material = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.select_dialog_multichoice_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.select_dialog_singlechoice_material = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.select_dialog_singlechoice_material;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.ShellContent = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.ShellContent;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.support_simple_spinner_dropdown_item = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Xamarin.Forms.Platform.Android.Resource.Layout.tooltip = global::FantasyStatsTracker.Mobile.Android.Resource.Layout.tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_home_description = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_action_bar_home_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_bar_up_description = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_action_bar_up_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_menu_overflow_description = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_action_menu_overflow_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_action_mode_done = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_action_mode_done;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activity_chooser_view_see_all = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_activity_chooser_view_see_all;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_activitychooserview_choose_application = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_activitychooserview_choose_application;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_off = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_capital_off;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_capital_on = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_capital_on;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_1_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_body_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_body_2_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_body_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_button_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_button_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_caption_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_caption_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_1_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_display_1_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_2_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_display_2_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_3_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_display_3_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_display_4_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_display_4_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_headline_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_headline_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_menu_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_menu_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_subhead_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_subhead_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_font_family_title_material = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_font_family_title_material;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_search_hint = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_search_hint;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_clear = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_searchview_description_clear;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_query = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_searchview_description_query;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_search = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_searchview_description_search;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_submit = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_searchview_description_submit;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_searchview_description_voice = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_searchview_description_voice;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_shareactionprovider_share_with;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_shareactionprovider_share_with_application = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Xamarin.Forms.Platform.Android.Resource.String.abc_toolbar_collapse_description = global::FantasyStatsTracker.Mobile.Android.Resource.String.abc_toolbar_collapse_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.appbar_scrolling_view_behavior = global::FantasyStatsTracker.Mobile.Android.Resource.String.appbar_scrolling_view_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.bottom_sheet_behavior = global::FantasyStatsTracker.Mobile.Android.Resource.String.bottom_sheet_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.String.character_counter_pattern = global::FantasyStatsTracker.Mobile.Android.Resource.String.character_counter_pattern;
+			global::Xamarin.Forms.Platform.Android.Resource.String.password_toggle_content_description = global::FantasyStatsTracker.Mobile.Android.Resource.String.password_toggle_content_description;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye = global::FantasyStatsTracker.Mobile.Android.Resource.String.path_password_eye;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_strike_through = global::FantasyStatsTracker.Mobile.Android.Resource.String.path_password_eye_mask_strike_through;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_eye_mask_visible = global::FantasyStatsTracker.Mobile.Android.Resource.String.path_password_eye_mask_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.String.path_password_strike_through = global::FantasyStatsTracker.Mobile.Android.Resource.String.path_password_strike_through;
+			global::Xamarin.Forms.Platform.Android.Resource.String.search_menu_title = global::FantasyStatsTracker.Mobile.Android.Resource.String.search_menu_title;
+			global::Xamarin.Forms.Platform.Android.Resource.String.status_bar_notification_info_overflow = global::FantasyStatsTracker.Mobile.Android.Resource.String.status_bar_notification_info_overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.AlertDialog_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_DropDownUp = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_AppCompat_Tooltip = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Animation_Design_BottomSheetDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Animation_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_AlertDialog_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Animation_AppCompat_Tooltip = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_CardView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitle_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Button = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V11_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V14_Widget_Design_AppBarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V14_Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V21_Widget_Design_AppBarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V21_Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V22_Theme_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V23_Theme_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Theme_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V26_Widget_Design_AppBarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V26_Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActionMode = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Button_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_EditText = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ImageButton = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_AppBarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Base_Widget_Design_TabLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Base_Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Dark = global::FantasyStatsTracker.Mobile.Android.Resource.Style.CardView_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.CardView_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.CardView_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.NestedScrollBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.NestedScrollBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V11_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_V11_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V11_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_V11_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V14_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_V14_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V14_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_V14_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_V21_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V21_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_V25_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_V25_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Platform_Widget_AppCompat_Spinner = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body1 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Body2 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Button = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Caption = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display1 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display2 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display3 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Display4 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Headline = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Menu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Tooltip = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Media = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Design_CollapsingToolbar_Expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Design_Counter;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Counter_Overflow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Design_Counter_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Error = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Design_Error;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Hint = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Design_Hint;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Snackbar_Message = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Design_Snackbar_Message;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Design_Tab = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Design_Tab;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::FantasyStatsTracker.Mobile.Android.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_CompactMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_DayNight;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_Alert = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_AppCompat_NoActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_Design;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_BottomSheetDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_Design_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_Design_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_Design_Light_BottomSheetDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_Light_NoActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_Design_Light_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Theme_Design_NoActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Theme_Design_NoActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Style.ThemeOverlay_AppCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark = global::FantasyStatsTracker.Mobile.Android.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::FantasyStatsTracker.Mobile.Android.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.ThemeOverlay_AppCompat_Light = global::FantasyStatsTracker.Mobile.Android.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActionMode = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ActivityChooserView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Button;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Colored = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Button_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_EditText = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_EditText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ImageButton = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_SearchView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListMenuView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListPopupWindow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_DropDown = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ListView_Menu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_PopupWindow = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_RatingBar_Small = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionContainer = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Compat_NotificationActionText = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_AppBarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomNavigationView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_BottomSheet_Modal = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_BottomSheet_Modal;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_CollapsingToolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_CollapsingToolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_CoordinatorLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_FloatingActionButton = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_NavigationView = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_Snackbar = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_Snackbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TabLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.Widget_Design_TextInputLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Style.Widget_Design_TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Style.collectionViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Style.collectionViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_background = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundSplit = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_backgroundStacked = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetRight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStart = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_customNavigationLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_displayOptions = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_displayOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_divider = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_height = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_hideOnContentScroll = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeAsUpIndicator = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_homeLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_homeLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_icon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_itemPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_itemPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_logo = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_navigationMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_navigationMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_popupTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_progressBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_subtitleTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_title = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBar_titleTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMenuItemView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuItemView_android_minWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMenuView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_background = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMode_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_backgroundSplit = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_closeItemLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_height = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMode_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_subtitleTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActionMode_titleTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActivityChooserView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ActivityChooserView_initialActivityCount = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_android_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AlertDialog_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listItemLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_listLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AlertDialog_listLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_showTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AlertDialog_showTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_background = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayout_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayout_android_keyboardNavigationCluster;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayout_android_touchscreenBlocksFocus;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayout_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_expanded = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayout_expanded;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayoutStates;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayoutStates_state_collapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayoutStates_state_collapsible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollFlags;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppBarLayout_Layout_layout_scrollInterpolator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatImageView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_android_src = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatImageView_android_src;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_srcCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatImageView_tint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatImageView_tintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatSeekBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_android_thumb = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMark = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextHelper;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_android_textAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_fontFamily = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTextView_textAllCaps = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarDivider = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSize = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkboxStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorAccent = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlActivated = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorControlNormal = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorError = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimary = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_controlBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dialogTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dividerVertical = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_editTextStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_searchViewStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_seekBarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_spinnerStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_switchStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_toolbarStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBar = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.AppCompatTheme_windowNoTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomNavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomNavigationView_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomNavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemIconTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomNavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_itemTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomNavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomNavigationView_menu = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomNavigationView_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomSheetBehavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_hideable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_peekHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.BottomSheetBehavior_Layout_behavior_skipCollapsed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ButtonBarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ButtonBarLayout_allowStacking = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_android_minHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_android_minWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_android_minWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardBackgroundColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardCornerRadius = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_cardCornerRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardElevation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_cardElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardMaxElevation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_cardMaxElevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardPreventCornerOverlap = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_cardUseCompatPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_contentPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingBottom = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingRight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_contentPaddingRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CardView_contentPaddingTop = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CardView_contentPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_collapsedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_contentScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_expandedTitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_scrimAnimationDuration;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_scrimVisibleHeightTrigger;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_statusBarScrim;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_title = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_titleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_toolbarId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CollapsingToolbarLayout_Layout_layout_collapseParallaxMultiplier;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ColorStateListItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ColorStateListItem_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_alpha = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ColorStateListItem_android_color = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ColorStateListItem_android_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CompoundButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_android_button = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CompoundButton_android_button;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CompoundButton_buttonTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CompoundButton_buttonTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_keylines = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_keylines;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_statusBarBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_anchorGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_behavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_dodgeInsetEdges;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_insetEdge;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.CoordinatorLayout_Layout_layout_keyline;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DesignTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DesignTheme_bottomSheetDialogTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_bottomSheetStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DesignTheme_bottomSheetStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DesignTheme_textColorError = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DesignTheme_textColorError;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DrawerArrowToggle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_barLength = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_color = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DrawerArrowToggle_color;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_drawableSize = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_spinBars = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.DrawerArrowToggle_thickness = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_borderWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_borderWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_fabSize = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_fabSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_pressedTranslationZ;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_rippleColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_rippleColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_useCompatPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_useCompatPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FloatingActionButton_Behavior_Layout_behavior_autoHide;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderAuthority = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderCerts = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderPackage = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamily_fontProviderQuery = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamilyFont;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_font = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamilyFont_android_font;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_android_fontWeight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_font = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamilyFont_font;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.FontFamilyFont_fontWeight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ForegroundLinearLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ForegroundLinearLayout_android_foreground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ForegroundLinearLayout_android_foregroundGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ForegroundLinearLayout_foregroundInsidePadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_gravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_orientation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_divider = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_showDividers = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ListPopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuGroup;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_checkableBehavior = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_enabled = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuGroup_android_enabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_id = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuGroup_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_menuCategory = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_orderInCategory = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuGroup_android_visible = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuGroup_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_actionLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionProviderClass = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_actionViewClass = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_actionViewClass;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_alphabeticModifiers = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checkable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_checkable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_checked = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_checked;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_enabled = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_enabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_icon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_id = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_menuCategory = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_numericShortcut = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_onClick = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_onClick;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_orderInCategory = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_title = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_titleCondensed = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_android_visible = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_android_visible;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_contentDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_contentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_iconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_iconTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_iconTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_numericModifiers = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_numericModifiers;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_showAsAction = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_showAsAction;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuItem_tooltipText = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuItem_tooltipText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_headerBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView_android_headerBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_horizontalDivider = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView_android_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_itemTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_verticalDivider = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_android_windowAnimationStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_preserveIconSpacing = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.MenuView_subMenuArrow = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.MenuView_subMenuArrow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_background = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_android_fitsSystemWindows;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_android_maxWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_headerLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_headerLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_itemBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemIconTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_itemIconTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_itemTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_itemTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_itemTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.NavigationView_menu = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.NavigationView_menu;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.PopupWindow;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_android_popupBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindow_overlapAnchor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.PopupWindowBackgroundState;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecycleListView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_descendantFocusability = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_android_descendantFocusability;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_android_orientation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_android_orientation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_fastScrollEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_fastScrollHorizontalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_fastScrollVerticalThumbDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_fastScrollVerticalTrackDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_layoutManager = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_layoutManager;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_reverseLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_reverseLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_spanCount = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_spanCount;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.RecyclerView_stackFromEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.RecyclerView_stackFromEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ScrimInsetsFrameLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ScrimInsetsFrameLayout_insetForeground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ScrollingViewBehavior_Layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ScrollingViewBehavior_Layout_behavior_overlapTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_focusable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_android_focusable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_imeOptions = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_android_imeOptions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_inputType = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_android_inputType;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_android_maxWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_closeIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_closeIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_commitIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_commitIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_defaultQueryHint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_goIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_goIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_iconifiedByDefault = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_queryBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_queryHint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_queryHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchHintIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_searchHintIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_searchIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_searchIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_submitBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_submitBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_suggestionRowLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SearchView_voiceIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SearchView_voiceIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SnackbarLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_android_maxWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SnackbarLayout_android_maxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_elevation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SnackbarLayout_elevation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SnackbarLayout_maxActionInlineWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Spinner;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_dropDownWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_entries = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Spinner_android_entries;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_popupBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Spinner_android_popupBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_android_prompt = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Spinner_android_prompt;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Spinner_popupTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Spinner_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOff = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_textOn = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_android_thumb = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_showText = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_showText;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_splitTrack = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchMinWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_switchTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTextPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_thumbTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_track = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_track;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_trackTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.SwitchCompat_trackTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabItem;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_icon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabItem_android_icon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabItem_android_layout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabItem_android_text = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabItem_android_text;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabBackground = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabBackground;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabContentStart = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabContentStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabIndicatorColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabIndicatorHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabIndicatorHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMaxWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabMaxWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMinWidth = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabMinWidth;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPadding = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabPadding;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingBottom = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabPaddingBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabPaddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingStart = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabPaddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabPaddingTop = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabPaddingTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabSelectedTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabSelectedTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TabLayout_tabTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TabLayout_tabTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_fontFamily = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDx = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowDy = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_shadowRadius = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_textColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorHint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textColorLink = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textSize = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_textSize;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_textStyle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_android_typeface = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_android_typeface;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_fontFamily = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_fontFamily;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextAppearance_textAllCaps = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_hint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_android_hint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_android_textColorHint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_android_textColorHint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_counterEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterMaxLength = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_counterMaxLength;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_counterOverflowTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_counterTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_counterTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_errorEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_errorTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_errorTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_hintAnimationEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_hintEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_hintTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_hintTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_passwordToggleContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_passwordToggleDrawable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_passwordToggleEnabled;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_passwordToggleTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.TextInputLayout_passwordToggleTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_gravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_android_gravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_android_minHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_android_minHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_buttonGravity = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_buttonGravity;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseContentDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_collapseIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_collapseIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetLeft = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetRight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStart = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logo = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_logo;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_logoDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_logoDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_maxButtonHeight = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationContentDescription = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_navigationIcon = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_navigationIcon;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_popupTheme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_popupTheme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitle = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_subtitle;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_subtitleTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_title = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_title;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargin = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_titleMargin;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginBottom = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginStart = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMarginTop = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleMargins = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_titleMargins;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextAppearance = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.Toolbar_titleTextColor = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.Toolbar_titleTextColor;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.View;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_focusable = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.View_android_focusable;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_android_theme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.View_android_theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingEnd = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.View_paddingEnd;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_paddingStart = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.View_paddingStart;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.View_theme = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.View_theme;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ViewBackgroundHelper;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_android_background = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ViewStubCompat;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_id = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ViewStubCompat_android_id;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_inflatedId = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Xamarin.Forms.Platform.Android.Resource.Styleable.ViewStubCompat_android_layout = global::FantasyStatsTracker.Mobile.Android.Resource.Styleable.ViewStubCompat_android_layout;
 		}
 		
 		public partial class Animation
@@ -75,10 +2061,22 @@ namespace FantasyStatsTracker.Mobile.Android
 			public const int design_snackbar_out = 2130771981;
 			
 			// aapt resource value: 0x7F01000E
-			public const int tooltip_enter = 2130771982;
+			public const int EnterFromLeft = 2130771982;
 			
 			// aapt resource value: 0x7F01000F
-			public const int tooltip_exit = 2130771983;
+			public const int EnterFromRight = 2130771983;
+			
+			// aapt resource value: 0x7F010010
+			public const int ExitToLeft = 2130771984;
+			
+			// aapt resource value: 0x7F010011
+			public const int ExitToRight = 2130771985;
+			
+			// aapt resource value: 0x7F010012
+			public const int tooltip_enter = 2130771986;
+			
+			// aapt resource value: 0x7F010013
+			public const int tooltip_exit = 2130771987;
 			
 			static Animation()
 			{
@@ -3103,520 +5101,553 @@ namespace FantasyStatsTracker.Mobile.Android
 			public const int bottom = 2131230754;
 			
 			// aapt resource value: 0x7F080023
-			public const int buttonPanel = 2131230755;
+			public const int bottomtab_navarea = 2131230755;
 			
 			// aapt resource value: 0x7F080024
-			public const int cancel_action = 2131230756;
+			public const int bottomtab_tabbar = 2131230756;
 			
 			// aapt resource value: 0x7F080025
-			public const int center = 2131230757;
+			public const int buttonPanel = 2131230757;
 			
 			// aapt resource value: 0x7F080026
-			public const int center_horizontal = 2131230758;
+			public const int cancel_action = 2131230758;
 			
 			// aapt resource value: 0x7F080027
-			public const int center_vertical = 2131230759;
+			public const int center = 2131230759;
 			
 			// aapt resource value: 0x7F080028
-			public const int checkbox = 2131230760;
+			public const int center_horizontal = 2131230760;
 			
 			// aapt resource value: 0x7F080029
-			public const int chronometer = 2131230761;
+			public const int center_vertical = 2131230761;
 			
 			// aapt resource value: 0x7F08002A
-			public const int clip_horizontal = 2131230762;
+			public const int checkbox = 2131230762;
 			
 			// aapt resource value: 0x7F08002B
-			public const int clip_vertical = 2131230763;
+			public const int chronometer = 2131230763;
 			
 			// aapt resource value: 0x7F08002C
-			public const int collapseActionView = 2131230764;
+			public const int clip_horizontal = 2131230764;
 			
 			// aapt resource value: 0x7F08002D
-			public const int container = 2131230765;
+			public const int clip_vertical = 2131230765;
 			
 			// aapt resource value: 0x7F08002E
-			public const int contentPanel = 2131230766;
+			public const int collapseActionView = 2131230766;
 			
 			// aapt resource value: 0x7F08002F
-			public const int coordinator = 2131230767;
+			public const int container = 2131230767;
+			
+			// aapt resource value: 0x7F080030
+			public const int contentPanel = 2131230768;
+			
+			// aapt resource value: 0x7F080031
+			public const int coordinator = 2131230769;
 			
 			// aapt resource value: 0x7F080001
 			public const int CTRL = 2131230721;
 			
-			// aapt resource value: 0x7F080030
-			public const int custom = 2131230768;
-			
-			// aapt resource value: 0x7F080031
-			public const int customPanel = 2131230769;
-			
 			// aapt resource value: 0x7F080032
-			public const int decor_content_parent = 2131230770;
+			public const int custom = 2131230770;
 			
 			// aapt resource value: 0x7F080033
-			public const int default_activity_button = 2131230771;
+			public const int customPanel = 2131230771;
 			
 			// aapt resource value: 0x7F080034
-			public const int design_bottom_sheet = 2131230772;
+			public const int decor_content_parent = 2131230772;
 			
 			// aapt resource value: 0x7F080035
-			public const int design_menu_item_action_area = 2131230773;
+			public const int default_activity_button = 2131230773;
 			
 			// aapt resource value: 0x7F080036
-			public const int design_menu_item_action_area_stub = 2131230774;
+			public const int design_bottom_sheet = 2131230774;
 			
 			// aapt resource value: 0x7F080037
-			public const int design_menu_item_text = 2131230775;
+			public const int design_menu_item_action_area = 2131230775;
 			
 			// aapt resource value: 0x7F080038
-			public const int design_navigation_view = 2131230776;
+			public const int design_menu_item_action_area_stub = 2131230776;
 			
 			// aapt resource value: 0x7F080039
-			public const int disableHome = 2131230777;
+			public const int design_menu_item_text = 2131230777;
 			
 			// aapt resource value: 0x7F08003A
-			public const int edit_query = 2131230778;
+			public const int design_navigation_view = 2131230778;
 			
 			// aapt resource value: 0x7F08003B
-			public const int end = 2131230779;
+			public const int disableHome = 2131230779;
 			
 			// aapt resource value: 0x7F08003C
-			public const int end_padder = 2131230780;
+			public const int edit_query = 2131230780;
 			
 			// aapt resource value: 0x7F08003D
-			public const int enterAlways = 2131230781;
+			public const int end = 2131230781;
 			
 			// aapt resource value: 0x7F08003E
-			public const int enterAlwaysCollapsed = 2131230782;
+			public const int end_padder = 2131230782;
 			
 			// aapt resource value: 0x7F08003F
-			public const int exitUntilCollapsed = 2131230783;
-			
-			// aapt resource value: 0x7F080041
-			public const int expanded_menu = 2131230785;
+			public const int enterAlways = 2131230783;
 			
 			// aapt resource value: 0x7F080040
-			public const int expand_activities_button = 2131230784;
+			public const int enterAlwaysCollapsed = 2131230784;
 			
-			// aapt resource value: 0x7F080042
-			public const int fill = 2131230786;
+			// aapt resource value: 0x7F080041
+			public const int exitUntilCollapsed = 2131230785;
 			
 			// aapt resource value: 0x7F080043
-			public const int fill_horizontal = 2131230787;
+			public const int expanded_menu = 2131230787;
+			
+			// aapt resource value: 0x7F080042
+			public const int expand_activities_button = 2131230786;
 			
 			// aapt resource value: 0x7F080044
-			public const int fill_vertical = 2131230788;
+			public const int fill = 2131230788;
 			
 			// aapt resource value: 0x7F080045
-			public const int @fixed = 2131230789;
+			public const int fill_horizontal = 2131230789;
 			
 			// aapt resource value: 0x7F080046
-			public const int forever = 2131230790;
+			public const int fill_vertical = 2131230790;
+			
+			// aapt resource value: 0x7F080047
+			public const int @fixed = 2131230791;
+			
+			// aapt resource value: 0x7F080048
+			public const int flyoutcontent_appbar = 2131230792;
+			
+			// aapt resource value: 0x7F080049
+			public const int flyoutcontent_recycler = 2131230793;
+			
+			// aapt resource value: 0x7F08004A
+			public const int forever = 2131230794;
 			
 			// aapt resource value: 0x7F080002
 			public const int FUNCTION = 2131230722;
 			
-			// aapt resource value: 0x7F080047
-			public const int ghost_view = 2131230791;
-			
-			// aapt resource value: 0x7F080048
-			public const int home = 2131230792;
-			
-			// aapt resource value: 0x7F080049
-			public const int homeAsUp = 2131230793;
-			
-			// aapt resource value: 0x7F08004A
-			public const int icon = 2131230794;
-			
 			// aapt resource value: 0x7F08004B
-			public const int icon_group = 2131230795;
+			public const int ghost_view = 2131230795;
 			
 			// aapt resource value: 0x7F08004C
-			public const int ifRoom = 2131230796;
+			public const int home = 2131230796;
 			
 			// aapt resource value: 0x7F08004D
-			public const int image = 2131230797;
+			public const int homeAsUp = 2131230797;
 			
 			// aapt resource value: 0x7F08004E
-			public const int info = 2131230798;
+			public const int icon = 2131230798;
 			
 			// aapt resource value: 0x7F08004F
-			public const int italic = 2131230799;
+			public const int icon_group = 2131230799;
 			
 			// aapt resource value: 0x7F080050
-			public const int item_touch_helper_previous_elevation = 2131230800;
+			public const int ifRoom = 2131230800;
 			
 			// aapt resource value: 0x7F080051
-			public const int largeLabel = 2131230801;
+			public const int image = 2131230801;
 			
 			// aapt resource value: 0x7F080052
-			public const int left = 2131230802;
+			public const int info = 2131230802;
 			
 			// aapt resource value: 0x7F080053
-			public const int line1 = 2131230803;
+			public const int italic = 2131230803;
 			
 			// aapt resource value: 0x7F080054
-			public const int line3 = 2131230804;
+			public const int item_touch_helper_previous_elevation = 2131230804;
 			
 			// aapt resource value: 0x7F080055
-			public const int listMode = 2131230805;
+			public const int largeLabel = 2131230805;
 			
 			// aapt resource value: 0x7F080056
-			public const int list_item = 2131230806;
+			public const int left = 2131230806;
 			
 			// aapt resource value: 0x7F080057
-			public const int masked = 2131230807;
+			public const int line1 = 2131230807;
 			
 			// aapt resource value: 0x7F080058
-			public const int media_actions = 2131230808;
+			public const int line3 = 2131230808;
 			
 			// aapt resource value: 0x7F080059
-			public const int message = 2131230809;
+			public const int listMode = 2131230809;
+			
+			// aapt resource value: 0x7F08005A
+			public const int list_item = 2131230810;
+			
+			// aapt resource value: 0x7F08005B
+			public const int main_appbar = 2131230811;
+			
+			// aapt resource value: 0x7F08005C
+			public const int main_tablayout = 2131230812;
+			
+			// aapt resource value: 0x7F08005D
+			public const int main_toolbar = 2131230813;
+			
+			// aapt resource value: 0x7F08005E
+			public const int main_viewpager = 2131230814;
+			
+			// aapt resource value: 0x7F08005F
+			public const int masked = 2131230815;
+			
+			// aapt resource value: 0x7F080060
+			public const int media_actions = 2131230816;
+			
+			// aapt resource value: 0x7F080061
+			public const int message = 2131230817;
 			
 			// aapt resource value: 0x7F080003
 			public const int META = 2131230723;
 			
-			// aapt resource value: 0x7F08005A
-			public const int middle = 2131230810;
-			
-			// aapt resource value: 0x7F08005B
-			public const int mini = 2131230811;
-			
-			// aapt resource value: 0x7F08005C
-			public const int mr_art = 2131230812;
-			
-			// aapt resource value: 0x7F08005D
-			public const int mr_chooser_list = 2131230813;
-			
-			// aapt resource value: 0x7F08005E
-			public const int mr_chooser_route_desc = 2131230814;
-			
-			// aapt resource value: 0x7F08005F
-			public const int mr_chooser_route_icon = 2131230815;
-			
-			// aapt resource value: 0x7F080060
-			public const int mr_chooser_route_name = 2131230816;
-			
-			// aapt resource value: 0x7F080061
-			public const int mr_chooser_title = 2131230817;
-			
 			// aapt resource value: 0x7F080062
-			public const int mr_close = 2131230818;
+			public const int middle = 2131230818;
 			
 			// aapt resource value: 0x7F080063
-			public const int mr_control_divider = 2131230819;
+			public const int mini = 2131230819;
 			
 			// aapt resource value: 0x7F080064
-			public const int mr_control_playback_ctrl = 2131230820;
+			public const int mr_art = 2131230820;
 			
 			// aapt resource value: 0x7F080065
-			public const int mr_control_subtitle = 2131230821;
+			public const int mr_chooser_list = 2131230821;
 			
 			// aapt resource value: 0x7F080066
-			public const int mr_control_title = 2131230822;
+			public const int mr_chooser_route_desc = 2131230822;
 			
 			// aapt resource value: 0x7F080067
-			public const int mr_control_title_container = 2131230823;
+			public const int mr_chooser_route_icon = 2131230823;
 			
 			// aapt resource value: 0x7F080068
-			public const int mr_custom_control = 2131230824;
+			public const int mr_chooser_route_name = 2131230824;
 			
 			// aapt resource value: 0x7F080069
-			public const int mr_default_control = 2131230825;
+			public const int mr_chooser_title = 2131230825;
 			
 			// aapt resource value: 0x7F08006A
-			public const int mr_dialog_area = 2131230826;
+			public const int mr_close = 2131230826;
 			
 			// aapt resource value: 0x7F08006B
-			public const int mr_expandable_area = 2131230827;
+			public const int mr_control_divider = 2131230827;
 			
 			// aapt resource value: 0x7F08006C
-			public const int mr_group_expand_collapse = 2131230828;
+			public const int mr_control_playback_ctrl = 2131230828;
 			
 			// aapt resource value: 0x7F08006D
-			public const int mr_media_main_control = 2131230829;
+			public const int mr_control_subtitle = 2131230829;
 			
 			// aapt resource value: 0x7F08006E
-			public const int mr_name = 2131230830;
+			public const int mr_control_title = 2131230830;
 			
 			// aapt resource value: 0x7F08006F
-			public const int mr_playback_control = 2131230831;
+			public const int mr_control_title_container = 2131230831;
 			
 			// aapt resource value: 0x7F080070
-			public const int mr_title_bar = 2131230832;
+			public const int mr_custom_control = 2131230832;
 			
 			// aapt resource value: 0x7F080071
-			public const int mr_volume_control = 2131230833;
+			public const int mr_default_control = 2131230833;
 			
 			// aapt resource value: 0x7F080072
-			public const int mr_volume_group_list = 2131230834;
+			public const int mr_dialog_area = 2131230834;
 			
 			// aapt resource value: 0x7F080073
-			public const int mr_volume_item_icon = 2131230835;
+			public const int mr_expandable_area = 2131230835;
 			
 			// aapt resource value: 0x7F080074
-			public const int mr_volume_slider = 2131230836;
+			public const int mr_group_expand_collapse = 2131230836;
 			
 			// aapt resource value: 0x7F080075
-			public const int multiply = 2131230837;
+			public const int mr_media_main_control = 2131230837;
 			
 			// aapt resource value: 0x7F080076
-			public const int navigation_header_container = 2131230838;
+			public const int mr_name = 2131230838;
 			
 			// aapt resource value: 0x7F080077
-			public const int never = 2131230839;
+			public const int mr_playback_control = 2131230839;
 			
 			// aapt resource value: 0x7F080078
-			public const int none = 2131230840;
+			public const int mr_title_bar = 2131230840;
 			
 			// aapt resource value: 0x7F080079
-			public const int normal = 2131230841;
+			public const int mr_volume_control = 2131230841;
 			
 			// aapt resource value: 0x7F08007A
-			public const int notification_background = 2131230842;
+			public const int mr_volume_group_list = 2131230842;
 			
 			// aapt resource value: 0x7F08007B
-			public const int notification_main_column = 2131230843;
+			public const int mr_volume_item_icon = 2131230843;
 			
 			// aapt resource value: 0x7F08007C
-			public const int notification_main_column_container = 2131230844;
+			public const int mr_volume_slider = 2131230844;
 			
 			// aapt resource value: 0x7F08007D
-			public const int parallax = 2131230845;
+			public const int multiply = 2131230845;
 			
 			// aapt resource value: 0x7F08007E
-			public const int parentPanel = 2131230846;
+			public const int navigation_header_container = 2131230846;
 			
 			// aapt resource value: 0x7F08007F
-			public const int parent_matrix = 2131230847;
+			public const int never = 2131230847;
 			
 			// aapt resource value: 0x7F080080
-			public const int pin = 2131230848;
+			public const int none = 2131230848;
 			
 			// aapt resource value: 0x7F080081
-			public const int progress_circular = 2131230849;
+			public const int normal = 2131230849;
 			
 			// aapt resource value: 0x7F080082
-			public const int progress_horizontal = 2131230850;
+			public const int notification_background = 2131230850;
 			
 			// aapt resource value: 0x7F080083
-			public const int radio = 2131230851;
+			public const int notification_main_column = 2131230851;
 			
 			// aapt resource value: 0x7F080084
-			public const int right = 2131230852;
+			public const int notification_main_column_container = 2131230852;
 			
 			// aapt resource value: 0x7F080085
-			public const int right_icon = 2131230853;
+			public const int parallax = 2131230853;
 			
 			// aapt resource value: 0x7F080086
-			public const int right_side = 2131230854;
+			public const int parentPanel = 2131230854;
 			
 			// aapt resource value: 0x7F080087
-			public const int save_image_matrix = 2131230855;
+			public const int parent_matrix = 2131230855;
 			
 			// aapt resource value: 0x7F080088
-			public const int save_non_transition_alpha = 2131230856;
+			public const int pin = 2131230856;
 			
 			// aapt resource value: 0x7F080089
-			public const int save_scale_type = 2131230857;
+			public const int progress_circular = 2131230857;
 			
 			// aapt resource value: 0x7F08008A
-			public const int screen = 2131230858;
+			public const int progress_horizontal = 2131230858;
 			
 			// aapt resource value: 0x7F08008B
-			public const int scroll = 2131230859;
-			
-			// aapt resource value: 0x7F08008F
-			public const int scrollable = 2131230863;
+			public const int radio = 2131230859;
 			
 			// aapt resource value: 0x7F08008C
-			public const int scrollIndicatorDown = 2131230860;
+			public const int right = 2131230860;
 			
 			// aapt resource value: 0x7F08008D
-			public const int scrollIndicatorUp = 2131230861;
+			public const int right_icon = 2131230861;
 			
 			// aapt resource value: 0x7F08008E
-			public const int scrollView = 2131230862;
+			public const int right_side = 2131230862;
+			
+			// aapt resource value: 0x7F08008F
+			public const int save_image_matrix = 2131230863;
 			
 			// aapt resource value: 0x7F080090
-			public const int search_badge = 2131230864;
+			public const int save_non_transition_alpha = 2131230864;
 			
 			// aapt resource value: 0x7F080091
-			public const int search_bar = 2131230865;
+			public const int save_scale_type = 2131230865;
 			
 			// aapt resource value: 0x7F080092
-			public const int search_button = 2131230866;
+			public const int screen = 2131230866;
 			
 			// aapt resource value: 0x7F080093
-			public const int search_close_btn = 2131230867;
-			
-			// aapt resource value: 0x7F080094
-			public const int search_edit_frame = 2131230868;
-			
-			// aapt resource value: 0x7F080095
-			public const int search_go_btn = 2131230869;
-			
-			// aapt resource value: 0x7F080096
-			public const int search_mag_icon = 2131230870;
+			public const int scroll = 2131230867;
 			
 			// aapt resource value: 0x7F080097
-			public const int search_plate = 2131230871;
+			public const int scrollable = 2131230871;
+			
+			// aapt resource value: 0x7F080094
+			public const int scrollIndicatorDown = 2131230868;
+			
+			// aapt resource value: 0x7F080095
+			public const int scrollIndicatorUp = 2131230869;
+			
+			// aapt resource value: 0x7F080096
+			public const int scrollView = 2131230870;
 			
 			// aapt resource value: 0x7F080098
-			public const int search_src_text = 2131230872;
+			public const int search_badge = 2131230872;
 			
 			// aapt resource value: 0x7F080099
-			public const int search_voice_btn = 2131230873;
+			public const int search_bar = 2131230873;
 			
 			// aapt resource value: 0x7F08009A
-			public const int select_dialog_listview = 2131230874;
+			public const int search_button = 2131230874;
+			
+			// aapt resource value: 0x7F08009B
+			public const int search_close_btn = 2131230875;
+			
+			// aapt resource value: 0x7F08009C
+			public const int search_edit_frame = 2131230876;
+			
+			// aapt resource value: 0x7F08009D
+			public const int search_go_btn = 2131230877;
+			
+			// aapt resource value: 0x7F08009E
+			public const int search_mag_icon = 2131230878;
+			
+			// aapt resource value: 0x7F08009F
+			public const int search_plate = 2131230879;
+			
+			// aapt resource value: 0x7F0800A0
+			public const int search_src_text = 2131230880;
+			
+			// aapt resource value: 0x7F0800A1
+			public const int search_voice_btn = 2131230881;
+			
+			// aapt resource value: 0x7F0800A2
+			public const int select_dialog_listview = 2131230882;
+			
+			// aapt resource value: 0x7F0800A3
+			public const int shellcontent_appbar = 2131230883;
+			
+			// aapt resource value: 0x7F0800A4
+			public const int shellcontent_toolbar = 2131230884;
 			
 			// aapt resource value: 0x7F080004
 			public const int SHIFT = 2131230724;
 			
-			// aapt resource value: 0x7F08009B
-			public const int shortcut = 2131230875;
-			
-			// aapt resource value: 0x7F08009C
-			public const int showCustom = 2131230876;
-			
-			// aapt resource value: 0x7F08009D
-			public const int showHome = 2131230877;
-			
-			// aapt resource value: 0x7F08009E
-			public const int showTitle = 2131230878;
-			
-			// aapt resource value: 0x7F08009F
-			public const int sliding_tabs = 2131230879;
-			
-			// aapt resource value: 0x7F0800A0
-			public const int smallLabel = 2131230880;
-			
-			// aapt resource value: 0x7F0800A1
-			public const int snackbar_action = 2131230881;
-			
-			// aapt resource value: 0x7F0800A2
-			public const int snackbar_text = 2131230882;
-			
-			// aapt resource value: 0x7F0800A3
-			public const int snap = 2131230883;
-			
-			// aapt resource value: 0x7F0800A4
-			public const int spacer = 2131230884;
-			
 			// aapt resource value: 0x7F0800A5
-			public const int split_action_bar = 2131230885;
+			public const int shortcut = 2131230885;
 			
 			// aapt resource value: 0x7F0800A6
-			public const int src_atop = 2131230886;
+			public const int showCustom = 2131230886;
 			
 			// aapt resource value: 0x7F0800A7
-			public const int src_in = 2131230887;
+			public const int showHome = 2131230887;
 			
 			// aapt resource value: 0x7F0800A8
-			public const int src_over = 2131230888;
+			public const int showTitle = 2131230888;
 			
 			// aapt resource value: 0x7F0800A9
-			public const int start = 2131230889;
+			public const int sliding_tabs = 2131230889;
 			
 			// aapt resource value: 0x7F0800AA
-			public const int status_bar_latest_event_content = 2131230890;
+			public const int smallLabel = 2131230890;
 			
 			// aapt resource value: 0x7F0800AB
-			public const int submenuarrow = 2131230891;
+			public const int snackbar_action = 2131230891;
 			
 			// aapt resource value: 0x7F0800AC
-			public const int submit_area = 2131230892;
+			public const int snackbar_text = 2131230892;
+			
+			// aapt resource value: 0x7F0800AD
+			public const int snap = 2131230893;
+			
+			// aapt resource value: 0x7F0800AE
+			public const int spacer = 2131230894;
+			
+			// aapt resource value: 0x7F0800AF
+			public const int split_action_bar = 2131230895;
+			
+			// aapt resource value: 0x7F0800B0
+			public const int src_atop = 2131230896;
+			
+			// aapt resource value: 0x7F0800B1
+			public const int src_in = 2131230897;
+			
+			// aapt resource value: 0x7F0800B2
+			public const int src_over = 2131230898;
+			
+			// aapt resource value: 0x7F0800B3
+			public const int start = 2131230899;
+			
+			// aapt resource value: 0x7F0800B4
+			public const int status_bar_latest_event_content = 2131230900;
+			
+			// aapt resource value: 0x7F0800B5
+			public const int submenuarrow = 2131230901;
+			
+			// aapt resource value: 0x7F0800B6
+			public const int submit_area = 2131230902;
 			
 			// aapt resource value: 0x7F080005
 			public const int SYM = 2131230725;
 			
-			// aapt resource value: 0x7F0800AD
-			public const int tabMode = 2131230893;
-			
-			// aapt resource value: 0x7F0800AE
-			public const int text = 2131230894;
-			
-			// aapt resource value: 0x7F0800AF
-			public const int text2 = 2131230895;
-			
-			// aapt resource value: 0x7F0800B3
-			public const int textinput_counter = 2131230899;
-			
-			// aapt resource value: 0x7F0800B4
-			public const int textinput_error = 2131230900;
-			
-			// aapt resource value: 0x7F0800B0
-			public const int textSpacerNoButtons = 2131230896;
-			
-			// aapt resource value: 0x7F0800B1
-			public const int textSpacerNoTitle = 2131230897;
-			
-			// aapt resource value: 0x7F0800B2
-			public const int text_input_password_toggle = 2131230898;
-			
-			// aapt resource value: 0x7F0800B5
-			public const int time = 2131230901;
-			
-			// aapt resource value: 0x7F0800B6
-			public const int title = 2131230902;
-			
 			// aapt resource value: 0x7F0800B7
-			public const int titleDividerNoCustom = 2131230903;
+			public const int tabMode = 2131230903;
 			
 			// aapt resource value: 0x7F0800B8
-			public const int title_template = 2131230904;
+			public const int tag_transition_group = 2131230904;
 			
 			// aapt resource value: 0x7F0800B9
-			public const int toolbar = 2131230905;
+			public const int text = 2131230905;
 			
 			// aapt resource value: 0x7F0800BA
-			public const int top = 2131230906;
-			
-			// aapt resource value: 0x7F0800BB
-			public const int topPanel = 2131230907;
-			
-			// aapt resource value: 0x7F0800BC
-			public const int touch_outside = 2131230908;
-			
-			// aapt resource value: 0x7F0800BD
-			public const int transition_current_scene = 2131230909;
+			public const int text2 = 2131230906;
 			
 			// aapt resource value: 0x7F0800BE
-			public const int transition_layout_save = 2131230910;
+			public const int textinput_counter = 2131230910;
 			
 			// aapt resource value: 0x7F0800BF
-			public const int transition_position = 2131230911;
+			public const int textinput_error = 2131230911;
+			
+			// aapt resource value: 0x7F0800BB
+			public const int textSpacerNoButtons = 2131230907;
+			
+			// aapt resource value: 0x7F0800BC
+			public const int textSpacerNoTitle = 2131230908;
+			
+			// aapt resource value: 0x7F0800BD
+			public const int text_input_password_toggle = 2131230909;
 			
 			// aapt resource value: 0x7F0800C0
-			public const int transition_scene_layoutid_cache = 2131230912;
+			public const int time = 2131230912;
 			
 			// aapt resource value: 0x7F0800C1
-			public const int transition_transform = 2131230913;
+			public const int title = 2131230913;
 			
 			// aapt resource value: 0x7F0800C2
-			public const int uniform = 2131230914;
+			public const int titleDividerNoCustom = 2131230914;
 			
 			// aapt resource value: 0x7F0800C3
-			public const int up = 2131230915;
+			public const int title_template = 2131230915;
 			
 			// aapt resource value: 0x7F0800C4
-			public const int useLogo = 2131230916;
+			public const int toolbar = 2131230916;
 			
 			// aapt resource value: 0x7F0800C5
-			public const int view_offset_helper = 2131230917;
+			public const int top = 2131230917;
 			
 			// aapt resource value: 0x7F0800C6
-			public const int visible = 2131230918;
+			public const int topPanel = 2131230918;
 			
 			// aapt resource value: 0x7F0800C7
-			public const int volume_item_container = 2131230919;
+			public const int touch_outside = 2131230919;
 			
 			// aapt resource value: 0x7F0800C8
-			public const int withText = 2131230920;
+			public const int transition_current_scene = 2131230920;
 			
 			// aapt resource value: 0x7F0800C9
-			public const int wrap_content = 2131230921;
+			public const int transition_layout_save = 2131230921;
+			
+			// aapt resource value: 0x7F0800CA
+			public const int transition_position = 2131230922;
+			
+			// aapt resource value: 0x7F0800CB
+			public const int transition_scene_layoutid_cache = 2131230923;
+			
+			// aapt resource value: 0x7F0800CC
+			public const int transition_transform = 2131230924;
+			
+			// aapt resource value: 0x7F0800CD
+			public const int uniform = 2131230925;
+			
+			// aapt resource value: 0x7F0800CE
+			public const int up = 2131230926;
+			
+			// aapt resource value: 0x7F0800CF
+			public const int useLogo = 2131230927;
+			
+			// aapt resource value: 0x7F0800D0
+			public const int view_offset_helper = 2131230928;
+			
+			// aapt resource value: 0x7F0800D1
+			public const int visible = 2131230929;
+			
+			// aapt resource value: 0x7F0800D2
+			public const int volume_item_container = 2131230930;
+			
+			// aapt resource value: 0x7F0800D3
+			public const int withText = 2131230931;
+			
+			// aapt resource value: 0x7F0800D4
+			public const int wrap_content = 2131230932;
 			
 			static Id()
 			{
@@ -3709,79 +5740,79 @@ namespace FantasyStatsTracker.Mobile.Android
 			public const int abc_action_bar_up_container = 2131427329;
 			
 			// aapt resource value: 0x7F0B0002
-			public const int abc_action_bar_view_list_nav_layout = 2131427330;
+			public const int abc_action_menu_item_layout = 2131427330;
 			
 			// aapt resource value: 0x7F0B0003
-			public const int abc_action_menu_item_layout = 2131427331;
+			public const int abc_action_menu_layout = 2131427331;
 			
 			// aapt resource value: 0x7F0B0004
-			public const int abc_action_menu_layout = 2131427332;
+			public const int abc_action_mode_bar = 2131427332;
 			
 			// aapt resource value: 0x7F0B0005
-			public const int abc_action_mode_bar = 2131427333;
+			public const int abc_action_mode_close_item_material = 2131427333;
 			
 			// aapt resource value: 0x7F0B0006
-			public const int abc_action_mode_close_item_material = 2131427334;
+			public const int abc_activity_chooser_view = 2131427334;
 			
 			// aapt resource value: 0x7F0B0007
-			public const int abc_activity_chooser_view = 2131427335;
+			public const int abc_activity_chooser_view_list_item = 2131427335;
 			
 			// aapt resource value: 0x7F0B0008
-			public const int abc_activity_chooser_view_list_item = 2131427336;
+			public const int abc_alert_dialog_button_bar_material = 2131427336;
 			
 			// aapt resource value: 0x7F0B0009
-			public const int abc_alert_dialog_button_bar_material = 2131427337;
+			public const int abc_alert_dialog_material = 2131427337;
 			
 			// aapt resource value: 0x7F0B000A
-			public const int abc_alert_dialog_material = 2131427338;
+			public const int abc_alert_dialog_title_material = 2131427338;
 			
 			// aapt resource value: 0x7F0B000B
-			public const int abc_alert_dialog_title_material = 2131427339;
+			public const int abc_dialog_title_material = 2131427339;
 			
 			// aapt resource value: 0x7F0B000C
-			public const int abc_dialog_title_material = 2131427340;
+			public const int abc_expanded_menu_layout = 2131427340;
 			
 			// aapt resource value: 0x7F0B000D
-			public const int abc_expanded_menu_layout = 2131427341;
+			public const int abc_list_menu_item_checkbox = 2131427341;
 			
 			// aapt resource value: 0x7F0B000E
-			public const int abc_list_menu_item_checkbox = 2131427342;
+			public const int abc_list_menu_item_icon = 2131427342;
 			
 			// aapt resource value: 0x7F0B000F
-			public const int abc_list_menu_item_icon = 2131427343;
+			public const int abc_list_menu_item_layout = 2131427343;
 			
 			// aapt resource value: 0x7F0B0010
-			public const int abc_list_menu_item_layout = 2131427344;
+			public const int abc_list_menu_item_radio = 2131427344;
 			
 			// aapt resource value: 0x7F0B0011
-			public const int abc_list_menu_item_radio = 2131427345;
+			public const int abc_popup_menu_header_item_layout = 2131427345;
 			
 			// aapt resource value: 0x7F0B0012
-			public const int abc_popup_menu_header_item_layout = 2131427346;
+			public const int abc_popup_menu_item_layout = 2131427346;
 			
 			// aapt resource value: 0x7F0B0013
-			public const int abc_popup_menu_item_layout = 2131427347;
+			public const int abc_screen_content_include = 2131427347;
 			
 			// aapt resource value: 0x7F0B0014
-			public const int abc_screen_content_include = 2131427348;
+			public const int abc_screen_simple = 2131427348;
 			
 			// aapt resource value: 0x7F0B0015
-			public const int abc_screen_simple = 2131427349;
+			public const int abc_screen_simple_overlay_action_mode = 2131427349;
 			
 			// aapt resource value: 0x7F0B0016
-			public const int abc_screen_simple_overlay_action_mode = 2131427350;
+			public const int abc_screen_toolbar = 2131427350;
 			
 			// aapt resource value: 0x7F0B0017
-			public const int abc_screen_toolbar = 2131427351;
+			public const int abc_search_dropdown_item_icons_2line = 2131427351;
 			
 			// aapt resource value: 0x7F0B0018
-			public const int abc_search_dropdown_item_icons_2line = 2131427352;
+			public const int abc_search_view = 2131427352;
 			
 			// aapt resource value: 0x7F0B0019
-			public const int abc_search_view = 2131427353;
+			public const int abc_select_dialog_material = 2131427353;
 			
 			// aapt resource value: 0x7F0B001A
-			public const int abc_select_dialog_material = 2131427354;
+			public const int BottomTabLayout = 2131427354;
 			
 			// aapt resource value: 0x7F0B001B
 			public const int design_bottom_navigation_item = 2131427355;
@@ -3826,88 +5857,97 @@ namespace FantasyStatsTracker.Mobile.Android
 			public const int design_text_input_password_icon = 2131427368;
 			
 			// aapt resource value: 0x7F0B0029
-			public const int mr_chooser_dialog = 2131427369;
+			public const int FlyoutContent = 2131427369;
 			
 			// aapt resource value: 0x7F0B002A
-			public const int mr_chooser_list_item = 2131427370;
+			public const int mr_chooser_dialog = 2131427370;
 			
 			// aapt resource value: 0x7F0B002B
-			public const int mr_controller_material_dialog_b = 2131427371;
+			public const int mr_chooser_list_item = 2131427371;
 			
 			// aapt resource value: 0x7F0B002C
-			public const int mr_controller_volume_item = 2131427372;
+			public const int mr_controller_material_dialog_b = 2131427372;
 			
 			// aapt resource value: 0x7F0B002D
-			public const int mr_playback_control = 2131427373;
+			public const int mr_controller_volume_item = 2131427373;
 			
 			// aapt resource value: 0x7F0B002E
-			public const int mr_volume_control = 2131427374;
+			public const int mr_playback_control = 2131427374;
 			
 			// aapt resource value: 0x7F0B002F
-			public const int notification_action = 2131427375;
+			public const int mr_volume_control = 2131427375;
 			
 			// aapt resource value: 0x7F0B0030
-			public const int notification_action_tombstone = 2131427376;
+			public const int notification_action = 2131427376;
 			
 			// aapt resource value: 0x7F0B0031
-			public const int notification_media_action = 2131427377;
+			public const int notification_action_tombstone = 2131427377;
 			
 			// aapt resource value: 0x7F0B0032
-			public const int notification_media_cancel_action = 2131427378;
+			public const int notification_media_action = 2131427378;
 			
 			// aapt resource value: 0x7F0B0033
-			public const int notification_template_big_media = 2131427379;
+			public const int notification_media_cancel_action = 2131427379;
 			
 			// aapt resource value: 0x7F0B0034
-			public const int notification_template_big_media_custom = 2131427380;
+			public const int notification_template_big_media = 2131427380;
 			
 			// aapt resource value: 0x7F0B0035
-			public const int notification_template_big_media_narrow = 2131427381;
+			public const int notification_template_big_media_custom = 2131427381;
 			
 			// aapt resource value: 0x7F0B0036
-			public const int notification_template_big_media_narrow_custom = 2131427382;
+			public const int notification_template_big_media_narrow = 2131427382;
 			
 			// aapt resource value: 0x7F0B0037
-			public const int notification_template_custom_big = 2131427383;
+			public const int notification_template_big_media_narrow_custom = 2131427383;
 			
 			// aapt resource value: 0x7F0B0038
-			public const int notification_template_icon_group = 2131427384;
+			public const int notification_template_custom_big = 2131427384;
 			
 			// aapt resource value: 0x7F0B0039
-			public const int notification_template_lines_media = 2131427385;
+			public const int notification_template_icon_group = 2131427385;
 			
 			// aapt resource value: 0x7F0B003A
-			public const int notification_template_media = 2131427386;
+			public const int notification_template_lines_media = 2131427386;
 			
 			// aapt resource value: 0x7F0B003B
-			public const int notification_template_media_custom = 2131427387;
+			public const int notification_template_media = 2131427387;
 			
 			// aapt resource value: 0x7F0B003C
-			public const int notification_template_part_chronometer = 2131427388;
+			public const int notification_template_media_custom = 2131427388;
 			
 			// aapt resource value: 0x7F0B003D
-			public const int notification_template_part_time = 2131427389;
+			public const int notification_template_part_chronometer = 2131427389;
 			
 			// aapt resource value: 0x7F0B003E
-			public const int select_dialog_item_material = 2131427390;
+			public const int notification_template_part_time = 2131427390;
 			
 			// aapt resource value: 0x7F0B003F
-			public const int select_dialog_multichoice_material = 2131427391;
+			public const int RootLayout = 2131427391;
 			
 			// aapt resource value: 0x7F0B0040
-			public const int select_dialog_singlechoice_material = 2131427392;
+			public const int select_dialog_item_material = 2131427392;
 			
 			// aapt resource value: 0x7F0B0041
-			public const int support_simple_spinner_dropdown_item = 2131427393;
+			public const int select_dialog_multichoice_material = 2131427393;
 			
 			// aapt resource value: 0x7F0B0042
-			public const int Tabbar = 2131427394;
+			public const int select_dialog_singlechoice_material = 2131427394;
 			
 			// aapt resource value: 0x7F0B0043
-			public const int Toolbar = 2131427395;
+			public const int ShellContent = 2131427395;
 			
 			// aapt resource value: 0x7F0B0044
-			public const int tooltip = 2131427396;
+			public const int support_simple_spinner_dropdown_item = 2131427396;
+			
+			// aapt resource value: 0x7F0B0045
+			public const int Tabbar = 2131427397;
+			
+			// aapt resource value: 0x7F0B0046
+			public const int Toolbar = 2131427398;
+			
+			// aapt resource value: 0x7F0B0047
+			public const int tooltip = 2131427399;
 			
 			static Layout()
 			{
@@ -3926,187 +5966,181 @@ namespace FantasyStatsTracker.Mobile.Android
 			public const int abc_action_bar_home_description = 2131492864;
 			
 			// aapt resource value: 0x7F0C0001
-			public const int abc_action_bar_home_description_format = 2131492865;
+			public const int abc_action_bar_up_description = 2131492865;
 			
 			// aapt resource value: 0x7F0C0002
-			public const int abc_action_bar_home_subtitle_description_format = 2131492866;
+			public const int abc_action_menu_overflow_description = 2131492866;
 			
 			// aapt resource value: 0x7F0C0003
-			public const int abc_action_bar_up_description = 2131492867;
-			
-			// aapt resource value: 0x7F0C0004
-			public const int abc_action_menu_overflow_description = 2131492868;
+			public const int abc_action_mode_done = 2131492867;
 			
 			// aapt resource value: 0x7F0C0005
-			public const int abc_action_mode_done = 2131492869;
+			public const int abc_activitychooserview_choose_application = 2131492869;
 			
-			// aapt resource value: 0x7F0C0007
-			public const int abc_activitychooserview_choose_application = 2131492871;
+			// aapt resource value: 0x7F0C0004
+			public const int abc_activity_chooser_view_see_all = 2131492868;
 			
 			// aapt resource value: 0x7F0C0006
-			public const int abc_activity_chooser_view_see_all = 2131492870;
+			public const int abc_capital_off = 2131492870;
+			
+			// aapt resource value: 0x7F0C0007
+			public const int abc_capital_on = 2131492871;
 			
 			// aapt resource value: 0x7F0C0008
-			public const int abc_capital_off = 2131492872;
+			public const int abc_font_family_body_1_material = 2131492872;
 			
 			// aapt resource value: 0x7F0C0009
-			public const int abc_capital_on = 2131492873;
+			public const int abc_font_family_body_2_material = 2131492873;
 			
 			// aapt resource value: 0x7F0C000A
-			public const int abc_font_family_body_1_material = 2131492874;
+			public const int abc_font_family_button_material = 2131492874;
 			
 			// aapt resource value: 0x7F0C000B
-			public const int abc_font_family_body_2_material = 2131492875;
+			public const int abc_font_family_caption_material = 2131492875;
 			
 			// aapt resource value: 0x7F0C000C
-			public const int abc_font_family_button_material = 2131492876;
+			public const int abc_font_family_display_1_material = 2131492876;
 			
 			// aapt resource value: 0x7F0C000D
-			public const int abc_font_family_caption_material = 2131492877;
+			public const int abc_font_family_display_2_material = 2131492877;
 			
 			// aapt resource value: 0x7F0C000E
-			public const int abc_font_family_display_1_material = 2131492878;
+			public const int abc_font_family_display_3_material = 2131492878;
 			
 			// aapt resource value: 0x7F0C000F
-			public const int abc_font_family_display_2_material = 2131492879;
+			public const int abc_font_family_display_4_material = 2131492879;
 			
 			// aapt resource value: 0x7F0C0010
-			public const int abc_font_family_display_3_material = 2131492880;
+			public const int abc_font_family_headline_material = 2131492880;
 			
 			// aapt resource value: 0x7F0C0011
-			public const int abc_font_family_display_4_material = 2131492881;
+			public const int abc_font_family_menu_material = 2131492881;
 			
 			// aapt resource value: 0x7F0C0012
-			public const int abc_font_family_headline_material = 2131492882;
+			public const int abc_font_family_subhead_material = 2131492882;
 			
 			// aapt resource value: 0x7F0C0013
-			public const int abc_font_family_menu_material = 2131492883;
-			
-			// aapt resource value: 0x7F0C0014
-			public const int abc_font_family_subhead_material = 2131492884;
+			public const int abc_font_family_title_material = 2131492883;
 			
 			// aapt resource value: 0x7F0C0015
-			public const int abc_font_family_title_material = 2131492885;
-			
-			// aapt resource value: 0x7F0C0017
-			public const int abc_searchview_description_clear = 2131492887;
-			
-			// aapt resource value: 0x7F0C0018
-			public const int abc_searchview_description_query = 2131492888;
-			
-			// aapt resource value: 0x7F0C0019
-			public const int abc_searchview_description_search = 2131492889;
-			
-			// aapt resource value: 0x7F0C001A
-			public const int abc_searchview_description_submit = 2131492890;
-			
-			// aapt resource value: 0x7F0C001B
-			public const int abc_searchview_description_voice = 2131492891;
+			public const int abc_searchview_description_clear = 2131492885;
 			
 			// aapt resource value: 0x7F0C0016
-			public const int abc_search_hint = 2131492886;
+			public const int abc_searchview_description_query = 2131492886;
+			
+			// aapt resource value: 0x7F0C0017
+			public const int abc_searchview_description_search = 2131492887;
+			
+			// aapt resource value: 0x7F0C0018
+			public const int abc_searchview_description_submit = 2131492888;
+			
+			// aapt resource value: 0x7F0C0019
+			public const int abc_searchview_description_voice = 2131492889;
+			
+			// aapt resource value: 0x7F0C0014
+			public const int abc_search_hint = 2131492884;
+			
+			// aapt resource value: 0x7F0C001A
+			public const int abc_shareactionprovider_share_with = 2131492890;
+			
+			// aapt resource value: 0x7F0C001B
+			public const int abc_shareactionprovider_share_with_application = 2131492891;
 			
 			// aapt resource value: 0x7F0C001C
-			public const int abc_shareactionprovider_share_with = 2131492892;
+			public const int abc_toolbar_collapse_description = 2131492892;
 			
 			// aapt resource value: 0x7F0C001D
-			public const int abc_shareactionprovider_share_with_application = 2131492893;
+			public const int appbar_scrolling_view_behavior = 2131492893;
 			
 			// aapt resource value: 0x7F0C001E
-			public const int abc_toolbar_collapse_description = 2131492894;
+			public const int bottom_sheet_behavior = 2131492894;
 			
 			// aapt resource value: 0x7F0C001F
-			public const int appbar_scrolling_view_behavior = 2131492895;
+			public const int character_counter_pattern = 2131492895;
 			
 			// aapt resource value: 0x7F0C0020
-			public const int bottom_sheet_behavior = 2131492896;
+			public const int mr_button_content_description = 2131492896;
 			
 			// aapt resource value: 0x7F0C0021
-			public const int character_counter_pattern = 2131492897;
+			public const int mr_cast_button_connected = 2131492897;
 			
 			// aapt resource value: 0x7F0C0022
-			public const int mr_button_content_description = 2131492898;
+			public const int mr_cast_button_connecting = 2131492898;
 			
 			// aapt resource value: 0x7F0C0023
-			public const int mr_cast_button_connected = 2131492899;
+			public const int mr_cast_button_disconnected = 2131492899;
 			
 			// aapt resource value: 0x7F0C0024
-			public const int mr_cast_button_connecting = 2131492900;
+			public const int mr_chooser_searching = 2131492900;
 			
 			// aapt resource value: 0x7F0C0025
-			public const int mr_cast_button_disconnected = 2131492901;
+			public const int mr_chooser_title = 2131492901;
 			
 			// aapt resource value: 0x7F0C0026
-			public const int mr_chooser_searching = 2131492902;
+			public const int mr_controller_album_art = 2131492902;
 			
 			// aapt resource value: 0x7F0C0027
-			public const int mr_chooser_title = 2131492903;
+			public const int mr_controller_casting_screen = 2131492903;
 			
 			// aapt resource value: 0x7F0C0028
-			public const int mr_controller_album_art = 2131492904;
+			public const int mr_controller_close_description = 2131492904;
 			
 			// aapt resource value: 0x7F0C0029
-			public const int mr_controller_casting_screen = 2131492905;
+			public const int mr_controller_collapse_group = 2131492905;
 			
 			// aapt resource value: 0x7F0C002A
-			public const int mr_controller_close_description = 2131492906;
+			public const int mr_controller_disconnect = 2131492906;
 			
 			// aapt resource value: 0x7F0C002B
-			public const int mr_controller_collapse_group = 2131492907;
+			public const int mr_controller_expand_group = 2131492907;
 			
 			// aapt resource value: 0x7F0C002C
-			public const int mr_controller_disconnect = 2131492908;
+			public const int mr_controller_no_info_available = 2131492908;
 			
 			// aapt resource value: 0x7F0C002D
-			public const int mr_controller_expand_group = 2131492909;
+			public const int mr_controller_no_media_selected = 2131492909;
 			
 			// aapt resource value: 0x7F0C002E
-			public const int mr_controller_no_info_available = 2131492910;
+			public const int mr_controller_pause = 2131492910;
 			
 			// aapt resource value: 0x7F0C002F
-			public const int mr_controller_no_media_selected = 2131492911;
+			public const int mr_controller_play = 2131492911;
 			
 			// aapt resource value: 0x7F0C0030
-			public const int mr_controller_pause = 2131492912;
+			public const int mr_controller_stop = 2131492912;
 			
 			// aapt resource value: 0x7F0C0031
-			public const int mr_controller_play = 2131492913;
+			public const int mr_controller_stop_casting = 2131492913;
 			
 			// aapt resource value: 0x7F0C0032
-			public const int mr_controller_stop = 2131492914;
+			public const int mr_controller_volume_slider = 2131492914;
 			
 			// aapt resource value: 0x7F0C0033
-			public const int mr_controller_stop_casting = 2131492915;
+			public const int mr_system_route_name = 2131492915;
 			
 			// aapt resource value: 0x7F0C0034
-			public const int mr_controller_volume_slider = 2131492916;
+			public const int mr_user_route_category_name = 2131492916;
 			
 			// aapt resource value: 0x7F0C0035
-			public const int mr_system_route_name = 2131492917;
+			public const int password_toggle_content_description = 2131492917;
 			
 			// aapt resource value: 0x7F0C0036
-			public const int mr_user_route_category_name = 2131492918;
+			public const int path_password_eye = 2131492918;
 			
 			// aapt resource value: 0x7F0C0037
-			public const int password_toggle_content_description = 2131492919;
+			public const int path_password_eye_mask_strike_through = 2131492919;
 			
 			// aapt resource value: 0x7F0C0038
-			public const int path_password_eye = 2131492920;
+			public const int path_password_eye_mask_visible = 2131492920;
 			
 			// aapt resource value: 0x7F0C0039
-			public const int path_password_eye_mask_strike_through = 2131492921;
+			public const int path_password_strike_through = 2131492921;
 			
 			// aapt resource value: 0x7F0C003A
-			public const int path_password_eye_mask_visible = 2131492922;
+			public const int search_menu_title = 2131492922;
 			
 			// aapt resource value: 0x7F0C003B
-			public const int path_password_strike_through = 2131492923;
-			
-			// aapt resource value: 0x7F0C003C
-			public const int search_menu_title = 2131492924;
-			
-			// aapt resource value: 0x7F0C003D
-			public const int status_bar_notification_info_overflow = 2131492925;
+			public const int status_bar_notification_info_overflow = 2131492923;
 			
 			static String()
 			{
@@ -4643,6 +6677,9 @@ namespace FantasyStatsTracker.Mobile.Android
 			// aapt resource value: 0x7F0D00AD
 			public const int CardView_Light = 2131558573;
 			
+			// aapt resource value: 0x7F0D0193
+			public const int collectionViewStyle = 2131558803;
+			
 			// aapt resource value: 0x7F0D00AE
 			public const int MainTheme = 2131558574;
 			
@@ -4650,712 +6687,685 @@ namespace FantasyStatsTracker.Mobile.Android
 			public const int MainTheme_Base = 2131558575;
 			
 			// aapt resource value: 0x7F0D00B0
-			public const int Platform_AppCompat = 2131558576;
+			public const int NestedScrollBarStyle = 2131558576;
 			
 			// aapt resource value: 0x7F0D00B1
-			public const int Platform_AppCompat_Light = 2131558577;
+			public const int Platform_AppCompat = 2131558577;
 			
 			// aapt resource value: 0x7F0D00B2
-			public const int Platform_ThemeOverlay_AppCompat = 2131558578;
+			public const int Platform_AppCompat_Light = 2131558578;
 			
 			// aapt resource value: 0x7F0D00B3
-			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131558579;
+			public const int Platform_ThemeOverlay_AppCompat = 2131558579;
 			
 			// aapt resource value: 0x7F0D00B4
-			public const int Platform_ThemeOverlay_AppCompat_Light = 2131558580;
+			public const int Platform_ThemeOverlay_AppCompat_Dark = 2131558580;
 			
 			// aapt resource value: 0x7F0D00B5
-			public const int Platform_V11_AppCompat = 2131558581;
+			public const int Platform_ThemeOverlay_AppCompat_Light = 2131558581;
 			
 			// aapt resource value: 0x7F0D00B6
-			public const int Platform_V11_AppCompat_Light = 2131558582;
+			public const int Platform_V11_AppCompat = 2131558582;
 			
 			// aapt resource value: 0x7F0D00B7
-			public const int Platform_V14_AppCompat = 2131558583;
+			public const int Platform_V11_AppCompat_Light = 2131558583;
 			
 			// aapt resource value: 0x7F0D00B8
-			public const int Platform_V14_AppCompat_Light = 2131558584;
+			public const int Platform_V14_AppCompat = 2131558584;
 			
 			// aapt resource value: 0x7F0D00B9
-			public const int Platform_V21_AppCompat = 2131558585;
+			public const int Platform_V14_AppCompat_Light = 2131558585;
 			
 			// aapt resource value: 0x7F0D00BA
-			public const int Platform_V21_AppCompat_Light = 2131558586;
+			public const int Platform_V21_AppCompat = 2131558586;
 			
 			// aapt resource value: 0x7F0D00BB
-			public const int Platform_V25_AppCompat = 2131558587;
+			public const int Platform_V21_AppCompat_Light = 2131558587;
 			
 			// aapt resource value: 0x7F0D00BC
-			public const int Platform_V25_AppCompat_Light = 2131558588;
+			public const int Platform_V25_AppCompat = 2131558588;
 			
 			// aapt resource value: 0x7F0D00BD
-			public const int Platform_Widget_AppCompat_Spinner = 2131558589;
+			public const int Platform_V25_AppCompat_Light = 2131558589;
 			
 			// aapt resource value: 0x7F0D00BE
-			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131558590;
+			public const int Platform_Widget_AppCompat_Spinner = 2131558590;
 			
 			// aapt resource value: 0x7F0D00BF
-			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131558591;
+			public const int RtlOverlay_DialogWindowTitle_AppCompat = 2131558591;
 			
 			// aapt resource value: 0x7F0D00C0
-			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131558592;
+			public const int RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = 2131558592;
 			
 			// aapt resource value: 0x7F0D00C1
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131558593;
+			public const int RtlOverlay_Widget_AppCompat_DialogTitle_Icon = 2131558593;
 			
 			// aapt resource value: 0x7F0D00C2
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131558594;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem = 2131558594;
 			
 			// aapt resource value: 0x7F0D00C3
-			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131558595;
-			
-			// aapt resource value: 0x7F0D00C9
-			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131558601;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = 2131558595;
 			
 			// aapt resource value: 0x7F0D00C4
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131558596;
-			
-			// aapt resource value: 0x7F0D00C5
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131558597;
-			
-			// aapt resource value: 0x7F0D00C6
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131558598;
-			
-			// aapt resource value: 0x7F0D00C7
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131558599;
-			
-			// aapt resource value: 0x7F0D00C8
-			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131558600;
+			public const int RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = 2131558596;
 			
 			// aapt resource value: 0x7F0D00CA
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131558602;
+			public const int RtlOverlay_Widget_AppCompat_SearchView_MagIcon = 2131558602;
+			
+			// aapt resource value: 0x7F0D00C5
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown = 2131558597;
+			
+			// aapt resource value: 0x7F0D00C6
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = 2131558598;
+			
+			// aapt resource value: 0x7F0D00C7
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = 2131558599;
+			
+			// aapt resource value: 0x7F0D00C8
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Query = 2131558600;
+			
+			// aapt resource value: 0x7F0D00C9
+			public const int RtlOverlay_Widget_AppCompat_Search_DropDown_Text = 2131558601;
 			
 			// aapt resource value: 0x7F0D00CB
-			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131558603;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton = 2131558603;
 			
 			// aapt resource value: 0x7F0D00CC
-			public const int TextAppearance_AppCompat = 2131558604;
+			public const int RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = 2131558604;
 			
 			// aapt resource value: 0x7F0D00CD
-			public const int TextAppearance_AppCompat_Body1 = 2131558605;
+			public const int TextAppearance_AppCompat = 2131558605;
 			
 			// aapt resource value: 0x7F0D00CE
-			public const int TextAppearance_AppCompat_Body2 = 2131558606;
+			public const int TextAppearance_AppCompat_Body1 = 2131558606;
 			
 			// aapt resource value: 0x7F0D00CF
-			public const int TextAppearance_AppCompat_Button = 2131558607;
+			public const int TextAppearance_AppCompat_Body2 = 2131558607;
 			
 			// aapt resource value: 0x7F0D00D0
-			public const int TextAppearance_AppCompat_Caption = 2131558608;
+			public const int TextAppearance_AppCompat_Button = 2131558608;
 			
 			// aapt resource value: 0x7F0D00D1
-			public const int TextAppearance_AppCompat_Display1 = 2131558609;
+			public const int TextAppearance_AppCompat_Caption = 2131558609;
 			
 			// aapt resource value: 0x7F0D00D2
-			public const int TextAppearance_AppCompat_Display2 = 2131558610;
+			public const int TextAppearance_AppCompat_Display1 = 2131558610;
 			
 			// aapt resource value: 0x7F0D00D3
-			public const int TextAppearance_AppCompat_Display3 = 2131558611;
+			public const int TextAppearance_AppCompat_Display2 = 2131558611;
 			
 			// aapt resource value: 0x7F0D00D4
-			public const int TextAppearance_AppCompat_Display4 = 2131558612;
+			public const int TextAppearance_AppCompat_Display3 = 2131558612;
 			
 			// aapt resource value: 0x7F0D00D5
-			public const int TextAppearance_AppCompat_Headline = 2131558613;
+			public const int TextAppearance_AppCompat_Display4 = 2131558613;
 			
 			// aapt resource value: 0x7F0D00D6
-			public const int TextAppearance_AppCompat_Inverse = 2131558614;
+			public const int TextAppearance_AppCompat_Headline = 2131558614;
 			
 			// aapt resource value: 0x7F0D00D7
-			public const int TextAppearance_AppCompat_Large = 2131558615;
+			public const int TextAppearance_AppCompat_Inverse = 2131558615;
 			
 			// aapt resource value: 0x7F0D00D8
-			public const int TextAppearance_AppCompat_Large_Inverse = 2131558616;
+			public const int TextAppearance_AppCompat_Large = 2131558616;
 			
 			// aapt resource value: 0x7F0D00D9
-			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131558617;
+			public const int TextAppearance_AppCompat_Large_Inverse = 2131558617;
 			
 			// aapt resource value: 0x7F0D00DA
-			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131558618;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Subtitle = 2131558618;
 			
 			// aapt resource value: 0x7F0D00DB
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131558619;
+			public const int TextAppearance_AppCompat_Light_SearchResult_Title = 2131558619;
 			
 			// aapt resource value: 0x7F0D00DC
-			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131558620;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = 2131558620;
 			
 			// aapt resource value: 0x7F0D00DD
-			public const int TextAppearance_AppCompat_Medium = 2131558621;
+			public const int TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = 2131558621;
 			
 			// aapt resource value: 0x7F0D00DE
-			public const int TextAppearance_AppCompat_Medium_Inverse = 2131558622;
+			public const int TextAppearance_AppCompat_Medium = 2131558622;
 			
 			// aapt resource value: 0x7F0D00DF
-			public const int TextAppearance_AppCompat_Menu = 2131558623;
+			public const int TextAppearance_AppCompat_Medium_Inverse = 2131558623;
 			
 			// aapt resource value: 0x7F0D00E0
-			public const int TextAppearance_AppCompat_Notification = 2131558624;
+			public const int TextAppearance_AppCompat_Menu = 2131558624;
 			
 			// aapt resource value: 0x7F0D00E1
-			public const int TextAppearance_AppCompat_Notification_Info = 2131558625;
+			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131558625;
 			
 			// aapt resource value: 0x7F0D00E2
-			public const int TextAppearance_AppCompat_Notification_Info_Media = 2131558626;
+			public const int TextAppearance_AppCompat_SearchResult_Title = 2131558626;
 			
 			// aapt resource value: 0x7F0D00E3
-			public const int TextAppearance_AppCompat_Notification_Line2 = 2131558627;
+			public const int TextAppearance_AppCompat_Small = 2131558627;
 			
 			// aapt resource value: 0x7F0D00E4
-			public const int TextAppearance_AppCompat_Notification_Line2_Media = 2131558628;
+			public const int TextAppearance_AppCompat_Small_Inverse = 2131558628;
 			
 			// aapt resource value: 0x7F0D00E5
-			public const int TextAppearance_AppCompat_Notification_Media = 2131558629;
+			public const int TextAppearance_AppCompat_Subhead = 2131558629;
 			
 			// aapt resource value: 0x7F0D00E6
-			public const int TextAppearance_AppCompat_Notification_Time = 2131558630;
+			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131558630;
 			
 			// aapt resource value: 0x7F0D00E7
-			public const int TextAppearance_AppCompat_Notification_Time_Media = 2131558631;
+			public const int TextAppearance_AppCompat_Title = 2131558631;
 			
 			// aapt resource value: 0x7F0D00E8
-			public const int TextAppearance_AppCompat_Notification_Title = 2131558632;
+			public const int TextAppearance_AppCompat_Title_Inverse = 2131558632;
 			
 			// aapt resource value: 0x7F0D00E9
-			public const int TextAppearance_AppCompat_Notification_Title_Media = 2131558633;
+			public const int TextAppearance_AppCompat_Tooltip = 2131558633;
 			
 			// aapt resource value: 0x7F0D00EA
-			public const int TextAppearance_AppCompat_SearchResult_Subtitle = 2131558634;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131558634;
 			
 			// aapt resource value: 0x7F0D00EB
-			public const int TextAppearance_AppCompat_SearchResult_Title = 2131558635;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131558635;
 			
 			// aapt resource value: 0x7F0D00EC
-			public const int TextAppearance_AppCompat_Small = 2131558636;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131558636;
 			
 			// aapt resource value: 0x7F0D00ED
-			public const int TextAppearance_AppCompat_Small_Inverse = 2131558637;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131558637;
 			
 			// aapt resource value: 0x7F0D00EE
-			public const int TextAppearance_AppCompat_Subhead = 2131558638;
+			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131558638;
 			
 			// aapt resource value: 0x7F0D00EF
-			public const int TextAppearance_AppCompat_Subhead_Inverse = 2131558639;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131558639;
 			
 			// aapt resource value: 0x7F0D00F0
-			public const int TextAppearance_AppCompat_Title = 2131558640;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131558640;
 			
 			// aapt resource value: 0x7F0D00F1
-			public const int TextAppearance_AppCompat_Title_Inverse = 2131558641;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131558641;
 			
 			// aapt resource value: 0x7F0D00F2
-			public const int TextAppearance_AppCompat_Tooltip = 2131558642;
+			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131558642;
 			
 			// aapt resource value: 0x7F0D00F3
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Menu = 2131558643;
+			public const int TextAppearance_AppCompat_Widget_Button = 2131558643;
 			
 			// aapt resource value: 0x7F0D00F4
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle = 2131558644;
+			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131558644;
 			
 			// aapt resource value: 0x7F0D00F5
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = 2131558645;
+			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131558645;
 			
 			// aapt resource value: 0x7F0D00F6
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title = 2131558646;
+			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131558646;
 			
 			// aapt resource value: 0x7F0D00F7
-			public const int TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = 2131558647;
+			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131558647;
 			
 			// aapt resource value: 0x7F0D00F8
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle = 2131558648;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131558648;
 			
 			// aapt resource value: 0x7F0D00F9
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = 2131558649;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131558649;
 			
 			// aapt resource value: 0x7F0D00FA
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title = 2131558650;
+			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131558650;
 			
 			// aapt resource value: 0x7F0D00FB
-			public const int TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = 2131558651;
+			public const int TextAppearance_AppCompat_Widget_Switch = 2131558651;
 			
 			// aapt resource value: 0x7F0D00FC
-			public const int TextAppearance_AppCompat_Widget_Button = 2131558652;
+			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131558652;
 			
 			// aapt resource value: 0x7F0D00FD
-			public const int TextAppearance_AppCompat_Widget_Button_Borderless_Colored = 2131558653;
+			public const int TextAppearance_Compat_Notification = 2131558653;
 			
 			// aapt resource value: 0x7F0D00FE
-			public const int TextAppearance_AppCompat_Widget_Button_Colored = 2131558654;
+			public const int TextAppearance_Compat_Notification_Info = 2131558654;
 			
 			// aapt resource value: 0x7F0D00FF
-			public const int TextAppearance_AppCompat_Widget_Button_Inverse = 2131558655;
+			public const int TextAppearance_Compat_Notification_Info_Media = 2131558655;
 			
 			// aapt resource value: 0x7F0D0100
-			public const int TextAppearance_AppCompat_Widget_DropDownItem = 2131558656;
+			public const int TextAppearance_Compat_Notification_Line2 = 2131558656;
 			
 			// aapt resource value: 0x7F0D0101
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Header = 2131558657;
+			public const int TextAppearance_Compat_Notification_Line2_Media = 2131558657;
 			
 			// aapt resource value: 0x7F0D0102
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Large = 2131558658;
+			public const int TextAppearance_Compat_Notification_Media = 2131558658;
 			
 			// aapt resource value: 0x7F0D0103
-			public const int TextAppearance_AppCompat_Widget_PopupMenu_Small = 2131558659;
+			public const int TextAppearance_Compat_Notification_Time = 2131558659;
 			
 			// aapt resource value: 0x7F0D0104
-			public const int TextAppearance_AppCompat_Widget_Switch = 2131558660;
+			public const int TextAppearance_Compat_Notification_Time_Media = 2131558660;
 			
 			// aapt resource value: 0x7F0D0105
-			public const int TextAppearance_AppCompat_Widget_TextView_SpinnerItem = 2131558661;
+			public const int TextAppearance_Compat_Notification_Title = 2131558661;
 			
 			// aapt resource value: 0x7F0D0106
-			public const int TextAppearance_Compat_Notification = 2131558662;
+			public const int TextAppearance_Compat_Notification_Title_Media = 2131558662;
 			
 			// aapt resource value: 0x7F0D0107
-			public const int TextAppearance_Compat_Notification_Info = 2131558663;
+			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131558663;
 			
 			// aapt resource value: 0x7F0D0108
-			public const int TextAppearance_Compat_Notification_Info_Media = 2131558664;
+			public const int TextAppearance_Design_Counter = 2131558664;
 			
 			// aapt resource value: 0x7F0D0109
-			public const int TextAppearance_Compat_Notification_Line2 = 2131558665;
+			public const int TextAppearance_Design_Counter_Overflow = 2131558665;
 			
 			// aapt resource value: 0x7F0D010A
-			public const int TextAppearance_Compat_Notification_Line2_Media = 2131558666;
+			public const int TextAppearance_Design_Error = 2131558666;
 			
 			// aapt resource value: 0x7F0D010B
-			public const int TextAppearance_Compat_Notification_Media = 2131558667;
+			public const int TextAppearance_Design_Hint = 2131558667;
 			
 			// aapt resource value: 0x7F0D010C
-			public const int TextAppearance_Compat_Notification_Time = 2131558668;
+			public const int TextAppearance_Design_Snackbar_Message = 2131558668;
 			
 			// aapt resource value: 0x7F0D010D
-			public const int TextAppearance_Compat_Notification_Time_Media = 2131558669;
+			public const int TextAppearance_Design_Tab = 2131558669;
 			
 			// aapt resource value: 0x7F0D010E
-			public const int TextAppearance_Compat_Notification_Title = 2131558670;
+			public const int TextAppearance_MediaRouter_PrimaryText = 2131558670;
 			
 			// aapt resource value: 0x7F0D010F
-			public const int TextAppearance_Compat_Notification_Title_Media = 2131558671;
+			public const int TextAppearance_MediaRouter_SecondaryText = 2131558671;
 			
 			// aapt resource value: 0x7F0D0110
-			public const int TextAppearance_Design_CollapsingToolbar_Expanded = 2131558672;
+			public const int TextAppearance_MediaRouter_Title = 2131558672;
 			
 			// aapt resource value: 0x7F0D0111
-			public const int TextAppearance_Design_Counter = 2131558673;
+			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131558673;
 			
 			// aapt resource value: 0x7F0D0112
-			public const int TextAppearance_Design_Counter_Overflow = 2131558674;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131558674;
 			
 			// aapt resource value: 0x7F0D0113
-			public const int TextAppearance_Design_Error = 2131558675;
-			
-			// aapt resource value: 0x7F0D0114
-			public const int TextAppearance_Design_Hint = 2131558676;
-			
-			// aapt resource value: 0x7F0D0115
-			public const int TextAppearance_Design_Snackbar_Message = 2131558677;
-			
-			// aapt resource value: 0x7F0D0116
-			public const int TextAppearance_Design_Tab = 2131558678;
-			
-			// aapt resource value: 0x7F0D0117
-			public const int TextAppearance_MediaRouter_PrimaryText = 2131558679;
-			
-			// aapt resource value: 0x7F0D0118
-			public const int TextAppearance_MediaRouter_SecondaryText = 2131558680;
-			
-			// aapt resource value: 0x7F0D0119
-			public const int TextAppearance_MediaRouter_Title = 2131558681;
-			
-			// aapt resource value: 0x7F0D011A
-			public const int TextAppearance_Widget_AppCompat_ExpandedMenu_Item = 2131558682;
-			
-			// aapt resource value: 0x7F0D011B
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Subtitle = 2131558683;
-			
-			// aapt resource value: 0x7F0D011C
-			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131558684;
-			
-			// aapt resource value: 0x7F0D013C
-			public const int ThemeOverlay_AppCompat = 2131558716;
-			
-			// aapt resource value: 0x7F0D013D
-			public const int ThemeOverlay_AppCompat_ActionBar = 2131558717;
-			
-			// aapt resource value: 0x7F0D013E
-			public const int ThemeOverlay_AppCompat_Dark = 2131558718;
-			
-			// aapt resource value: 0x7F0D013F
-			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131558719;
-			
-			// aapt resource value: 0x7F0D0140
-			public const int ThemeOverlay_AppCompat_Dialog = 2131558720;
-			
-			// aapt resource value: 0x7F0D0141
-			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131558721;
-			
-			// aapt resource value: 0x7F0D0142
-			public const int ThemeOverlay_AppCompat_Light = 2131558722;
-			
-			// aapt resource value: 0x7F0D0143
-			public const int ThemeOverlay_MediaRouter_Dark = 2131558723;
-			
-			// aapt resource value: 0x7F0D0144
-			public const int ThemeOverlay_MediaRouter_Light = 2131558724;
-			
-			// aapt resource value: 0x7F0D011D
-			public const int Theme_AppCompat = 2131558685;
-			
-			// aapt resource value: 0x7F0D011E
-			public const int Theme_AppCompat_CompactMenu = 2131558686;
-			
-			// aapt resource value: 0x7F0D011F
-			public const int Theme_AppCompat_DayNight = 2131558687;
-			
-			// aapt resource value: 0x7F0D0120
-			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131558688;
-			
-			// aapt resource value: 0x7F0D0121
-			public const int Theme_AppCompat_DayNight_Dialog = 2131558689;
-			
-			// aapt resource value: 0x7F0D0124
-			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131558692;
-			
-			// aapt resource value: 0x7F0D0122
-			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131558690;
-			
-			// aapt resource value: 0x7F0D0123
-			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131558691;
-			
-			// aapt resource value: 0x7F0D0125
-			public const int Theme_AppCompat_DayNight_NoActionBar = 2131558693;
-			
-			// aapt resource value: 0x7F0D0126
-			public const int Theme_AppCompat_Dialog = 2131558694;
-			
-			// aapt resource value: 0x7F0D0129
-			public const int Theme_AppCompat_DialogWhenLarge = 2131558697;
-			
-			// aapt resource value: 0x7F0D0127
-			public const int Theme_AppCompat_Dialog_Alert = 2131558695;
-			
-			// aapt resource value: 0x7F0D0128
-			public const int Theme_AppCompat_Dialog_MinWidth = 2131558696;
-			
-			// aapt resource value: 0x7F0D012A
-			public const int Theme_AppCompat_Light = 2131558698;
-			
-			// aapt resource value: 0x7F0D012B
-			public const int Theme_AppCompat_Light_DarkActionBar = 2131558699;
-			
-			// aapt resource value: 0x7F0D012C
-			public const int Theme_AppCompat_Light_Dialog = 2131558700;
-			
-			// aapt resource value: 0x7F0D012F
-			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131558703;
-			
-			// aapt resource value: 0x7F0D012D
-			public const int Theme_AppCompat_Light_Dialog_Alert = 2131558701;
-			
-			// aapt resource value: 0x7F0D012E
-			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131558702;
-			
-			// aapt resource value: 0x7F0D0130
-			public const int Theme_AppCompat_Light_NoActionBar = 2131558704;
-			
-			// aapt resource value: 0x7F0D0131
-			public const int Theme_AppCompat_NoActionBar = 2131558705;
-			
-			// aapt resource value: 0x7F0D0132
-			public const int Theme_Design = 2131558706;
+			public const int TextAppearance_Widget_AppCompat_Toolbar_Title = 2131558675;
 			
 			// aapt resource value: 0x7F0D0133
-			public const int Theme_Design_BottomSheetDialog = 2131558707;
+			public const int ThemeOverlay_AppCompat = 2131558707;
 			
 			// aapt resource value: 0x7F0D0134
-			public const int Theme_Design_Light = 2131558708;
+			public const int ThemeOverlay_AppCompat_ActionBar = 2131558708;
 			
 			// aapt resource value: 0x7F0D0135
-			public const int Theme_Design_Light_BottomSheetDialog = 2131558709;
+			public const int ThemeOverlay_AppCompat_Dark = 2131558709;
 			
 			// aapt resource value: 0x7F0D0136
-			public const int Theme_Design_Light_NoActionBar = 2131558710;
+			public const int ThemeOverlay_AppCompat_Dark_ActionBar = 2131558710;
 			
 			// aapt resource value: 0x7F0D0137
-			public const int Theme_Design_NoActionBar = 2131558711;
+			public const int ThemeOverlay_AppCompat_Dialog = 2131558711;
 			
 			// aapt resource value: 0x7F0D0138
-			public const int Theme_MediaRouter = 2131558712;
+			public const int ThemeOverlay_AppCompat_Dialog_Alert = 2131558712;
 			
 			// aapt resource value: 0x7F0D0139
-			public const int Theme_MediaRouter_Light = 2131558713;
-			
-			// aapt resource value: 0x7F0D013B
-			public const int Theme_MediaRouter_LightControlPanel = 2131558715;
+			public const int ThemeOverlay_AppCompat_Light = 2131558713;
 			
 			// aapt resource value: 0x7F0D013A
-			public const int Theme_MediaRouter_Light_DarkControlPanel = 2131558714;
+			public const int ThemeOverlay_MediaRouter_Dark = 2131558714;
+			
+			// aapt resource value: 0x7F0D013B
+			public const int ThemeOverlay_MediaRouter_Light = 2131558715;
+			
+			// aapt resource value: 0x7F0D0114
+			public const int Theme_AppCompat = 2131558676;
+			
+			// aapt resource value: 0x7F0D0115
+			public const int Theme_AppCompat_CompactMenu = 2131558677;
+			
+			// aapt resource value: 0x7F0D0116
+			public const int Theme_AppCompat_DayNight = 2131558678;
+			
+			// aapt resource value: 0x7F0D0117
+			public const int Theme_AppCompat_DayNight_DarkActionBar = 2131558679;
+			
+			// aapt resource value: 0x7F0D0118
+			public const int Theme_AppCompat_DayNight_Dialog = 2131558680;
+			
+			// aapt resource value: 0x7F0D011B
+			public const int Theme_AppCompat_DayNight_DialogWhenLarge = 2131558683;
+			
+			// aapt resource value: 0x7F0D0119
+			public const int Theme_AppCompat_DayNight_Dialog_Alert = 2131558681;
+			
+			// aapt resource value: 0x7F0D011A
+			public const int Theme_AppCompat_DayNight_Dialog_MinWidth = 2131558682;
+			
+			// aapt resource value: 0x7F0D011C
+			public const int Theme_AppCompat_DayNight_NoActionBar = 2131558684;
+			
+			// aapt resource value: 0x7F0D011D
+			public const int Theme_AppCompat_Dialog = 2131558685;
+			
+			// aapt resource value: 0x7F0D0120
+			public const int Theme_AppCompat_DialogWhenLarge = 2131558688;
+			
+			// aapt resource value: 0x7F0D011E
+			public const int Theme_AppCompat_Dialog_Alert = 2131558686;
+			
+			// aapt resource value: 0x7F0D011F
+			public const int Theme_AppCompat_Dialog_MinWidth = 2131558687;
+			
+			// aapt resource value: 0x7F0D0121
+			public const int Theme_AppCompat_Light = 2131558689;
+			
+			// aapt resource value: 0x7F0D0122
+			public const int Theme_AppCompat_Light_DarkActionBar = 2131558690;
+			
+			// aapt resource value: 0x7F0D0123
+			public const int Theme_AppCompat_Light_Dialog = 2131558691;
+			
+			// aapt resource value: 0x7F0D0126
+			public const int Theme_AppCompat_Light_DialogWhenLarge = 2131558694;
+			
+			// aapt resource value: 0x7F0D0124
+			public const int Theme_AppCompat_Light_Dialog_Alert = 2131558692;
+			
+			// aapt resource value: 0x7F0D0125
+			public const int Theme_AppCompat_Light_Dialog_MinWidth = 2131558693;
+			
+			// aapt resource value: 0x7F0D0127
+			public const int Theme_AppCompat_Light_NoActionBar = 2131558695;
+			
+			// aapt resource value: 0x7F0D0128
+			public const int Theme_AppCompat_NoActionBar = 2131558696;
+			
+			// aapt resource value: 0x7F0D0129
+			public const int Theme_Design = 2131558697;
+			
+			// aapt resource value: 0x7F0D012A
+			public const int Theme_Design_BottomSheetDialog = 2131558698;
+			
+			// aapt resource value: 0x7F0D012B
+			public const int Theme_Design_Light = 2131558699;
+			
+			// aapt resource value: 0x7F0D012C
+			public const int Theme_Design_Light_BottomSheetDialog = 2131558700;
+			
+			// aapt resource value: 0x7F0D012D
+			public const int Theme_Design_Light_NoActionBar = 2131558701;
+			
+			// aapt resource value: 0x7F0D012E
+			public const int Theme_Design_NoActionBar = 2131558702;
+			
+			// aapt resource value: 0x7F0D012F
+			public const int Theme_MediaRouter = 2131558703;
+			
+			// aapt resource value: 0x7F0D0130
+			public const int Theme_MediaRouter_Light = 2131558704;
+			
+			// aapt resource value: 0x7F0D0132
+			public const int Theme_MediaRouter_LightControlPanel = 2131558706;
+			
+			// aapt resource value: 0x7F0D0131
+			public const int Theme_MediaRouter_Light_DarkControlPanel = 2131558705;
+			
+			// aapt resource value: 0x7F0D013C
+			public const int Widget_AppCompat_ActionBar = 2131558716;
+			
+			// aapt resource value: 0x7F0D013D
+			public const int Widget_AppCompat_ActionBar_Solid = 2131558717;
+			
+			// aapt resource value: 0x7F0D013E
+			public const int Widget_AppCompat_ActionBar_TabBar = 2131558718;
+			
+			// aapt resource value: 0x7F0D013F
+			public const int Widget_AppCompat_ActionBar_TabText = 2131558719;
+			
+			// aapt resource value: 0x7F0D0140
+			public const int Widget_AppCompat_ActionBar_TabView = 2131558720;
+			
+			// aapt resource value: 0x7F0D0141
+			public const int Widget_AppCompat_ActionButton = 2131558721;
+			
+			// aapt resource value: 0x7F0D0142
+			public const int Widget_AppCompat_ActionButton_CloseMode = 2131558722;
+			
+			// aapt resource value: 0x7F0D0143
+			public const int Widget_AppCompat_ActionButton_Overflow = 2131558723;
+			
+			// aapt resource value: 0x7F0D0144
+			public const int Widget_AppCompat_ActionMode = 2131558724;
 			
 			// aapt resource value: 0x7F0D0145
-			public const int Widget_AppCompat_ActionBar = 2131558725;
+			public const int Widget_AppCompat_ActivityChooserView = 2131558725;
 			
 			// aapt resource value: 0x7F0D0146
-			public const int Widget_AppCompat_ActionBar_Solid = 2131558726;
+			public const int Widget_AppCompat_AutoCompleteTextView = 2131558726;
 			
 			// aapt resource value: 0x7F0D0147
-			public const int Widget_AppCompat_ActionBar_TabBar = 2131558727;
-			
-			// aapt resource value: 0x7F0D0148
-			public const int Widget_AppCompat_ActionBar_TabText = 2131558728;
-			
-			// aapt resource value: 0x7F0D0149
-			public const int Widget_AppCompat_ActionBar_TabView = 2131558729;
-			
-			// aapt resource value: 0x7F0D014A
-			public const int Widget_AppCompat_ActionButton = 2131558730;
-			
-			// aapt resource value: 0x7F0D014B
-			public const int Widget_AppCompat_ActionButton_CloseMode = 2131558731;
-			
-			// aapt resource value: 0x7F0D014C
-			public const int Widget_AppCompat_ActionButton_Overflow = 2131558732;
+			public const int Widget_AppCompat_Button = 2131558727;
 			
 			// aapt resource value: 0x7F0D014D
-			public const int Widget_AppCompat_ActionMode = 2131558733;
+			public const int Widget_AppCompat_ButtonBar = 2131558733;
 			
 			// aapt resource value: 0x7F0D014E
-			public const int Widget_AppCompat_ActivityChooserView = 2131558734;
+			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131558734;
+			
+			// aapt resource value: 0x7F0D0148
+			public const int Widget_AppCompat_Button_Borderless = 2131558728;
+			
+			// aapt resource value: 0x7F0D0149
+			public const int Widget_AppCompat_Button_Borderless_Colored = 2131558729;
+			
+			// aapt resource value: 0x7F0D014A
+			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131558730;
+			
+			// aapt resource value: 0x7F0D014B
+			public const int Widget_AppCompat_Button_Colored = 2131558731;
+			
+			// aapt resource value: 0x7F0D014C
+			public const int Widget_AppCompat_Button_Small = 2131558732;
 			
 			// aapt resource value: 0x7F0D014F
-			public const int Widget_AppCompat_AutoCompleteTextView = 2131558735;
+			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131558735;
 			
 			// aapt resource value: 0x7F0D0150
-			public const int Widget_AppCompat_Button = 2131558736;
-			
-			// aapt resource value: 0x7F0D0156
-			public const int Widget_AppCompat_ButtonBar = 2131558742;
-			
-			// aapt resource value: 0x7F0D0157
-			public const int Widget_AppCompat_ButtonBar_AlertDialog = 2131558743;
+			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131558736;
 			
 			// aapt resource value: 0x7F0D0151
-			public const int Widget_AppCompat_Button_Borderless = 2131558737;
+			public const int Widget_AppCompat_CompoundButton_Switch = 2131558737;
 			
 			// aapt resource value: 0x7F0D0152
-			public const int Widget_AppCompat_Button_Borderless_Colored = 2131558738;
+			public const int Widget_AppCompat_DrawerArrowToggle = 2131558738;
 			
 			// aapt resource value: 0x7F0D0153
-			public const int Widget_AppCompat_Button_ButtonBar_AlertDialog = 2131558739;
+			public const int Widget_AppCompat_DropDownItem_Spinner = 2131558739;
 			
 			// aapt resource value: 0x7F0D0154
-			public const int Widget_AppCompat_Button_Colored = 2131558740;
+			public const int Widget_AppCompat_EditText = 2131558740;
 			
 			// aapt resource value: 0x7F0D0155
-			public const int Widget_AppCompat_Button_Small = 2131558741;
+			public const int Widget_AppCompat_ImageButton = 2131558741;
+			
+			// aapt resource value: 0x7F0D0156
+			public const int Widget_AppCompat_Light_ActionBar = 2131558742;
+			
+			// aapt resource value: 0x7F0D0157
+			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131558743;
 			
 			// aapt resource value: 0x7F0D0158
-			public const int Widget_AppCompat_CompoundButton_CheckBox = 2131558744;
+			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131558744;
 			
 			// aapt resource value: 0x7F0D0159
-			public const int Widget_AppCompat_CompoundButton_RadioButton = 2131558745;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131558745;
 			
 			// aapt resource value: 0x7F0D015A
-			public const int Widget_AppCompat_CompoundButton_Switch = 2131558746;
+			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131558746;
 			
 			// aapt resource value: 0x7F0D015B
-			public const int Widget_AppCompat_DrawerArrowToggle = 2131558747;
+			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131558747;
 			
 			// aapt resource value: 0x7F0D015C
-			public const int Widget_AppCompat_DropDownItem_Spinner = 2131558748;
+			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131558748;
 			
 			// aapt resource value: 0x7F0D015D
-			public const int Widget_AppCompat_EditText = 2131558749;
+			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131558749;
 			
 			// aapt resource value: 0x7F0D015E
-			public const int Widget_AppCompat_ImageButton = 2131558750;
+			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131558750;
 			
 			// aapt resource value: 0x7F0D015F
-			public const int Widget_AppCompat_Light_ActionBar = 2131558751;
+			public const int Widget_AppCompat_Light_ActionButton = 2131558751;
 			
 			// aapt resource value: 0x7F0D0160
-			public const int Widget_AppCompat_Light_ActionBar_Solid = 2131558752;
+			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131558752;
 			
 			// aapt resource value: 0x7F0D0161
-			public const int Widget_AppCompat_Light_ActionBar_Solid_Inverse = 2131558753;
+			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131558753;
 			
 			// aapt resource value: 0x7F0D0162
-			public const int Widget_AppCompat_Light_ActionBar_TabBar = 2131558754;
+			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131558754;
 			
 			// aapt resource value: 0x7F0D0163
-			public const int Widget_AppCompat_Light_ActionBar_TabBar_Inverse = 2131558755;
+			public const int Widget_AppCompat_Light_ActivityChooserView = 2131558755;
 			
 			// aapt resource value: 0x7F0D0164
-			public const int Widget_AppCompat_Light_ActionBar_TabText = 2131558756;
+			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131558756;
 			
 			// aapt resource value: 0x7F0D0165
-			public const int Widget_AppCompat_Light_ActionBar_TabText_Inverse = 2131558757;
+			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131558757;
 			
 			// aapt resource value: 0x7F0D0166
-			public const int Widget_AppCompat_Light_ActionBar_TabView = 2131558758;
+			public const int Widget_AppCompat_Light_ListPopupWindow = 2131558758;
 			
 			// aapt resource value: 0x7F0D0167
-			public const int Widget_AppCompat_Light_ActionBar_TabView_Inverse = 2131558759;
+			public const int Widget_AppCompat_Light_ListView_DropDown = 2131558759;
 			
 			// aapt resource value: 0x7F0D0168
-			public const int Widget_AppCompat_Light_ActionButton = 2131558760;
+			public const int Widget_AppCompat_Light_PopupMenu = 2131558760;
 			
 			// aapt resource value: 0x7F0D0169
-			public const int Widget_AppCompat_Light_ActionButton_CloseMode = 2131558761;
+			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131558761;
 			
 			// aapt resource value: 0x7F0D016A
-			public const int Widget_AppCompat_Light_ActionButton_Overflow = 2131558762;
+			public const int Widget_AppCompat_Light_SearchView = 2131558762;
 			
 			// aapt resource value: 0x7F0D016B
-			public const int Widget_AppCompat_Light_ActionMode_Inverse = 2131558763;
+			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131558763;
 			
 			// aapt resource value: 0x7F0D016C
-			public const int Widget_AppCompat_Light_ActivityChooserView = 2131558764;
+			public const int Widget_AppCompat_ListMenuView = 2131558764;
 			
 			// aapt resource value: 0x7F0D016D
-			public const int Widget_AppCompat_Light_AutoCompleteTextView = 2131558765;
+			public const int Widget_AppCompat_ListPopupWindow = 2131558765;
 			
 			// aapt resource value: 0x7F0D016E
-			public const int Widget_AppCompat_Light_DropDownItem_Spinner = 2131558766;
+			public const int Widget_AppCompat_ListView = 2131558766;
 			
 			// aapt resource value: 0x7F0D016F
-			public const int Widget_AppCompat_Light_ListPopupWindow = 2131558767;
+			public const int Widget_AppCompat_ListView_DropDown = 2131558767;
 			
 			// aapt resource value: 0x7F0D0170
-			public const int Widget_AppCompat_Light_ListView_DropDown = 2131558768;
+			public const int Widget_AppCompat_ListView_Menu = 2131558768;
 			
 			// aapt resource value: 0x7F0D0171
-			public const int Widget_AppCompat_Light_PopupMenu = 2131558769;
+			public const int Widget_AppCompat_PopupMenu = 2131558769;
 			
 			// aapt resource value: 0x7F0D0172
-			public const int Widget_AppCompat_Light_PopupMenu_Overflow = 2131558770;
+			public const int Widget_AppCompat_PopupMenu_Overflow = 2131558770;
 			
 			// aapt resource value: 0x7F0D0173
-			public const int Widget_AppCompat_Light_SearchView = 2131558771;
+			public const int Widget_AppCompat_PopupWindow = 2131558771;
 			
 			// aapt resource value: 0x7F0D0174
-			public const int Widget_AppCompat_Light_Spinner_DropDown_ActionBar = 2131558772;
+			public const int Widget_AppCompat_ProgressBar = 2131558772;
 			
 			// aapt resource value: 0x7F0D0175
-			public const int Widget_AppCompat_ListMenuView = 2131558773;
+			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131558773;
 			
 			// aapt resource value: 0x7F0D0176
-			public const int Widget_AppCompat_ListPopupWindow = 2131558774;
+			public const int Widget_AppCompat_RatingBar = 2131558774;
 			
 			// aapt resource value: 0x7F0D0177
-			public const int Widget_AppCompat_ListView = 2131558775;
+			public const int Widget_AppCompat_RatingBar_Indicator = 2131558775;
 			
 			// aapt resource value: 0x7F0D0178
-			public const int Widget_AppCompat_ListView_DropDown = 2131558776;
+			public const int Widget_AppCompat_RatingBar_Small = 2131558776;
 			
 			// aapt resource value: 0x7F0D0179
-			public const int Widget_AppCompat_ListView_Menu = 2131558777;
+			public const int Widget_AppCompat_SearchView = 2131558777;
 			
 			// aapt resource value: 0x7F0D017A
-			public const int Widget_AppCompat_PopupMenu = 2131558778;
+			public const int Widget_AppCompat_SearchView_ActionBar = 2131558778;
 			
 			// aapt resource value: 0x7F0D017B
-			public const int Widget_AppCompat_PopupMenu_Overflow = 2131558779;
+			public const int Widget_AppCompat_SeekBar = 2131558779;
 			
 			// aapt resource value: 0x7F0D017C
-			public const int Widget_AppCompat_PopupWindow = 2131558780;
+			public const int Widget_AppCompat_SeekBar_Discrete = 2131558780;
 			
 			// aapt resource value: 0x7F0D017D
-			public const int Widget_AppCompat_ProgressBar = 2131558781;
+			public const int Widget_AppCompat_Spinner = 2131558781;
 			
 			// aapt resource value: 0x7F0D017E
-			public const int Widget_AppCompat_ProgressBar_Horizontal = 2131558782;
+			public const int Widget_AppCompat_Spinner_DropDown = 2131558782;
 			
 			// aapt resource value: 0x7F0D017F
-			public const int Widget_AppCompat_RatingBar = 2131558783;
+			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131558783;
 			
 			// aapt resource value: 0x7F0D0180
-			public const int Widget_AppCompat_RatingBar_Indicator = 2131558784;
+			public const int Widget_AppCompat_Spinner_Underlined = 2131558784;
 			
 			// aapt resource value: 0x7F0D0181
-			public const int Widget_AppCompat_RatingBar_Small = 2131558785;
+			public const int Widget_AppCompat_TextView_SpinnerItem = 2131558785;
 			
 			// aapt resource value: 0x7F0D0182
-			public const int Widget_AppCompat_SearchView = 2131558786;
+			public const int Widget_AppCompat_Toolbar = 2131558786;
 			
 			// aapt resource value: 0x7F0D0183
-			public const int Widget_AppCompat_SearchView_ActionBar = 2131558787;
+			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131558787;
 			
 			// aapt resource value: 0x7F0D0184
-			public const int Widget_AppCompat_SeekBar = 2131558788;
+			public const int Widget_Compat_NotificationActionContainer = 2131558788;
 			
 			// aapt resource value: 0x7F0D0185
-			public const int Widget_AppCompat_SeekBar_Discrete = 2131558789;
+			public const int Widget_Compat_NotificationActionText = 2131558789;
 			
 			// aapt resource value: 0x7F0D0186
-			public const int Widget_AppCompat_Spinner = 2131558790;
+			public const int Widget_Design_AppBarLayout = 2131558790;
 			
 			// aapt resource value: 0x7F0D0187
-			public const int Widget_AppCompat_Spinner_DropDown = 2131558791;
+			public const int Widget_Design_BottomNavigationView = 2131558791;
 			
 			// aapt resource value: 0x7F0D0188
-			public const int Widget_AppCompat_Spinner_DropDown_ActionBar = 2131558792;
+			public const int Widget_Design_BottomSheet_Modal = 2131558792;
 			
 			// aapt resource value: 0x7F0D0189
-			public const int Widget_AppCompat_Spinner_Underlined = 2131558793;
+			public const int Widget_Design_CollapsingToolbar = 2131558793;
 			
 			// aapt resource value: 0x7F0D018A
-			public const int Widget_AppCompat_TextView_SpinnerItem = 2131558794;
+			public const int Widget_Design_CoordinatorLayout = 2131558794;
 			
 			// aapt resource value: 0x7F0D018B
-			public const int Widget_AppCompat_Toolbar = 2131558795;
+			public const int Widget_Design_FloatingActionButton = 2131558795;
 			
 			// aapt resource value: 0x7F0D018C
-			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131558796;
+			public const int Widget_Design_NavigationView = 2131558796;
 			
 			// aapt resource value: 0x7F0D018D
-			public const int Widget_Compat_NotificationActionContainer = 2131558797;
+			public const int Widget_Design_ScrimInsetsFrameLayout = 2131558797;
 			
 			// aapt resource value: 0x7F0D018E
-			public const int Widget_Compat_NotificationActionText = 2131558798;
+			public const int Widget_Design_Snackbar = 2131558798;
 			
 			// aapt resource value: 0x7F0D018F
-			public const int Widget_Design_AppBarLayout = 2131558799;
+			public const int Widget_Design_TabLayout = 2131558799;
 			
 			// aapt resource value: 0x7F0D0190
-			public const int Widget_Design_BottomNavigationView = 2131558800;
+			public const int Widget_Design_TextInputLayout = 2131558800;
 			
 			// aapt resource value: 0x7F0D0191
-			public const int Widget_Design_BottomSheet_Modal = 2131558801;
+			public const int Widget_MediaRouter_Light_MediaRouteButton = 2131558801;
 			
 			// aapt resource value: 0x7F0D0192
-			public const int Widget_Design_CollapsingToolbar = 2131558802;
-			
-			// aapt resource value: 0x7F0D0193
-			public const int Widget_Design_CoordinatorLayout = 2131558803;
-			
-			// aapt resource value: 0x7F0D0194
-			public const int Widget_Design_FloatingActionButton = 2131558804;
-			
-			// aapt resource value: 0x7F0D0195
-			public const int Widget_Design_NavigationView = 2131558805;
-			
-			// aapt resource value: 0x7F0D0196
-			public const int Widget_Design_ScrimInsetsFrameLayout = 2131558806;
-			
-			// aapt resource value: 0x7F0D0197
-			public const int Widget_Design_Snackbar = 2131558807;
-			
-			// aapt resource value: 0x7F0D0198
-			public const int Widget_Design_TabLayout = 2131558808;
-			
-			// aapt resource value: 0x7F0D0199
-			public const int Widget_Design_TextInputLayout = 2131558809;
-			
-			// aapt resource value: 0x7F0D019A
-			public const int Widget_MediaRouter_Light_MediaRouteButton = 2131558810;
-			
-			// aapt resource value: 0x7F0D019B
-			public const int Widget_MediaRouter_MediaRouteButton = 2131558811;
+			public const int Widget_MediaRouter_MediaRouteButton = 2131558802;
 			
 			static Style()
 			{
@@ -6555,20 +8565,32 @@ namespace FantasyStatsTracker.Mobile.Android
 					2130903200,
 					2130903201};
 			
-			// aapt resource value: { 0x7F03009A,0x7F0300A2,0x7F0300A3 }
+			// aapt resource value: { 0x1010532,0x1010533,0x101053F,0x7F03009A,0x7F0300A2,0x7F0300A3 }
 			public static int[] FontFamilyFont = new int[] {
+					16844082,
+					16844083,
+					16844095,
 					2130903194,
 					2130903202,
 					2130903203};
 			
 			// aapt resource value: 0
-			public const int FontFamilyFont_font = 0;
-			
-			// aapt resource value: 1
-			public const int FontFamilyFont_fontStyle = 1;
+			public const int FontFamilyFont_android_font = 0;
 			
 			// aapt resource value: 2
-			public const int FontFamilyFont_fontWeight = 2;
+			public const int FontFamilyFont_android_fontStyle = 2;
+			
+			// aapt resource value: 1
+			public const int FontFamilyFont_android_fontWeight = 1;
+			
+			// aapt resource value: 3
+			public const int FontFamilyFont_font = 3;
+			
+			// aapt resource value: 4
+			public const int FontFamilyFont_fontStyle = 4;
+			
+			// aapt resource value: 5
+			public const int FontFamilyFont_fontWeight = 5;
 			
 			// aapt resource value: 0
 			public const int FontFamily_fontProviderAuthority = 0;
