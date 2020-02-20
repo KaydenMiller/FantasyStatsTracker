@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.FantasyStatsTracker/FantasyStatsTracker.Mobile.Android.iml" filepath="$PROJECT_DIR$/.idea/.idea.FantasyStatsTracker/FantasyStatsTracker.Mobile.Android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/.idea.FantasyStatsTracker/Mobile__FantasyStatsTracker.Mobile.Android.iml" filepath="$PROJECT_DIR$/.idea/.idea.FantasyStatsTracker/Mobile__FantasyStatsTracker.Mobile.Android.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/.idea.FantasyStatsTracker/riderModule.iml" filepath="$PROJECT_DIR$/.idea/.idea.FantasyStatsTracker/riderModule.iml" />
     </modules>
   </component>
