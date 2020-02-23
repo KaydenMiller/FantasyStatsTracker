@@ -10,6 +10,7 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Autofac" Version="5.1.2" />
         <PackageReference Include="Xamarin.Forms" Version="4.4.0.991640" />
     </ItemGroup>
 </Project>
