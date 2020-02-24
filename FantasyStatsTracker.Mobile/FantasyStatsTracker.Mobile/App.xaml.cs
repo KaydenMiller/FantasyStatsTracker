@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using Autofac;
 using Autofac.Core;
+using FantasyStatsTracker.Mobile.ViewModels;
+using FantasyStatsTracker.Mobile.Views;
 using Xamarin.Forms;
 using Xamarin.Forms.Internals;
 using Xamarin.Forms.Xaml;
