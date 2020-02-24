@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Autofac;
 using Autofac.Core;
+using Autofac.Extensions.DependencyInjection;
 using FantasyStatsTracker.Api.Controllers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -21,14 +22,13 @@ namespace FantasyStatsTracker.Api
     public class Startup
     {
         public IConfigurationRoot AutoFacConfiguration { get; private set; }
-        public ILifetimeScope AutoFacScope { get; private set; }
+        public ILifetimeScope AutofacContainer { get; private set; }
+        public IConfiguration Configuration { get; }
         
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
-
-        public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
@@ -40,7 +40,10 @@ namespace FantasyStatsTracker.Api
 
         public void ConfigureContainer(ContainerBuilder builder)
         {
-            //builder.RegisterType<WeatherForecastController>().PropertiesAutowired();
+            // Add Autofac modules or registrations
+            // This is called AFTER ConfigureServices so things you register
+            // here OVERRIDE things registered in ConfiguredServices
+            builder.RegisterModule(new AutofacModule());
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
