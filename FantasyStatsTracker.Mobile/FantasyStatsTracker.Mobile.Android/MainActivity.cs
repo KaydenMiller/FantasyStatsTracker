@@ -21,5 +21,10 @@ namespace FantasyStatsTracker.Mobile.Android
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
             LoadApplication(new App());
         }
+
+        private void RegisterTypes()
+        {
+            App.BuildContainer();
+        }
     }
 }

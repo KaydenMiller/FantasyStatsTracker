@@ -22,24 +22,9 @@ namespace FantasyStatsTracker.Mobile
             
             DependencyResolver.ResolveUsing(type => container.IsRegistered(type) ? container.Resolve(type) : null);
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new MainPage());
         }
 
-        protected override void OnStart()
-        {
-            // Handle when your app starts
-        }
-
-        protected override void OnSleep()
-        {
-            // Handle when your app sleeps
-        }
-
-        protected override void OnResume()
-        {
-            // Handle when your app resumes
-        }
-        
         public static void RegisterType<T>() where T : class
         {
             builder.RegisterType<T>();
@@ -82,6 +67,21 @@ namespace FantasyStatsTracker.Mobile
         public static void BuildContainer()
         {
             container = builder.Build();
+        }
+        
+        protected override void OnStart()
+        {
+            // Handle when your app starts
+        }
+
+        protected override void OnSleep()
+        {
+            // Handle when your app sleeps
+        }
+
+        protected override void OnResume()
+        {
+            // Handle when your app resumes
         }
     }
 }

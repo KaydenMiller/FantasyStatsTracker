@@ -2,6 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Autofac;
+using Autofac.Core;
+using FantasyStatsTracker.Api.Controllers;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -17,6 +20,9 @@ namespace FantasyStatsTracker.Api
 {
     public class Startup
     {
+        public IConfigurationRoot AutoFacConfiguration { get; private set; }
+        public ILifetimeScope AutoFacScope { get; private set; }
+        
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -32,6 +38,11 @@ namespace FantasyStatsTracker.Api
             services.AddControllers();
         }
 
+        public void ConfigureContainer(ContainerBuilder builder)
+        {
+            //builder.RegisterType<WeatherForecastController>().PropertiesAutowired();
+        }
+
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
@@ -39,7 +50,7 @@ namespace FantasyStatsTracker.Api
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            
             app.UseHttpsRedirection();
 
             app.UseRouting();
