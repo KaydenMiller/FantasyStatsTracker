@@ -3,13 +3,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Xamarin.Forms;
 
-namespace FantasyStatsTracker.Mobile
+using Xamarin.Forms;
+using Xamarin.Forms.Xaml;
+
+namespace FantasyStatsTracker.Mobile.Views
 {
-    public partial class MainPage : ContentPage
+    [XamlCompilation(XamlCompilationOptions.Compile)]
+    public partial class CharactersPage : ContentPage
     {
-        public MainPage()
+        public CharactersPage()
         {
             InitializeComponent();
         }
